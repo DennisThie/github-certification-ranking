@@ -26,66 +26,11 @@ jobs:
           pip install --upgrade pip
       
       - name: Fetch certification data
-        timeout-minutes: 45  # Limit data fetching to 45 minutes
+        timeout-minutes: 60  # Limit data fetching to 60 minutes
         run: |
           chmod +x cert-github.sh
-          
-          # Comprehensive list of countries by continent
-          COUNTRIES=(
-            # Americas
-            "Brazil" "United States" "Canada" "Mexico" "Argentina" "Chile" 
-            "Colombia" "Peru" "Venezuela" "Ecuador" "Bolivia" "Paraguay" 
-            "Uruguay" "Costa Rica" "Panama" "Guatemala" "Honduras" 
-            "El Salvador" "Nicaragua" "Dominican Republic" "Cuba"
-            
-            # Europe
-            "Germany" "France" "United Kingdom" "Spain" "Italy" "Netherlands" 
-            "Poland" "Portugal" "Belgium" "Greece" "Sweden" "Austria" 
-            "Switzerland" "Norway" "Denmark" "Finland" "Ireland" "Czech Republic"
-            "Romania" "Hungary" "Ukraine" "Russia"
-            
-            # Asia
-            "China" "India" "Japan" "South Korea" "Singapore" "Indonesia"
-            "Thailand" "Vietnam" "Malaysia" "Philippines" "Bangladesh"
-            "Pakistan" "Israel" "Turkey" "Saudi Arabia" "United Arab Emirates"
-            
-            # Oceania
-            "Australia" "New Zealand" "Fiji" "Papua New Guinea"
-            
-            # Africa
-            "South Africa" "Egypt" "Nigeria" "Kenya" "Morocco" "Ghana"
-          )
-          
-          echo "Fetching certification data for ${#COUNTRIES[@]} countries..."
-          echo "Started at: $(date)"
-          
-          FAILED_COUNTRIES=()
-          SUCCESS_COUNT=0
-          
-          for country in "${COUNTRIES[@]}"; do
-            echo "----------------------------------------"
-            echo "Processing: $country"
-            
-            # Add timeout and retry logic for each country
-            if timeout 120 ./cert-github.sh "$country"; then
-              echo "✓ Success: $country"
-              ((SUCCESS_COUNT++))
-            else
-              echo "✗ Failed: $country (timeout or error)"
-              FAILED_COUNTRIES+=("$country")
-            fi
-            
-            # Small delay to avoid rate limiting
-            sleep 1
-          done
-          
-          echo "========================================"
-          echo "Completed at: $(date)"
-          echo "Success: $SUCCESS_COUNT/${#COUNTRIES[@]}"
-          
-          if [ ${#FAILED_COUNTRIES[@]} -gt 0 ]; then
-            echo "Failed countries: ${FAILED_COUNTRIES[*]}"
-          fi
+          chmod +x fetch_data.py
+          python3 fetch_data.py
       
       - name: Generate rankings
         run: |
