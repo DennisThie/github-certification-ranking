@@ -19,7 +19,12 @@ def fetch_page(country, page):
         response = requests.get(url, timeout=30)
         response.raise_for_status()
         data = response.json()
-        return (page, data.get('data', []), data.get('total_pages', 0))
+        
+        # Get total_pages from metadata
+        metadata = data.get('metadata', {})
+        total_pages = metadata.get('total_pages', 0)
+        
+        return (page, data.get('data', []), total_pages)
     except Exception as e:
         print(f"  Error on page {page}: {e}")
         return (page, [], 0)

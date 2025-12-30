@@ -67,7 +67,7 @@ def fetch_country_data(country, metadata):
     
     # Use parallel script for India (much faster)
     if country == 'India':
-        timeout = 7200  # 2 hours for India with parallel requests
+        timeout = 36000  # 10 hours for India (safe margin for very large datasets)
         try:
             result = subprocess.run(
                 ['python3', 'fetch_large_country.py', country],
