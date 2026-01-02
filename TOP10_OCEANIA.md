@@ -1,6 +1,6 @@
 # 🌊 TOP 10 GitHub Certifications - Oceania
 
-> Last updated: January 01, 2026 at 01:52 UTC
+> Last updated: January 02, 2026 at 01:43 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -34,7 +34,7 @@ The following countries have data that was not updated in the last run:
 
 | Country | Last Updated | Hours Old |
 |---------|--------------|-----------|
-| Guinea Bissau | 2025-12-30 01:09 UTC | 48h |
+| Guinea Bissau | 2025-12-30 01:09 UTC | 72h |
 
 ---
 
