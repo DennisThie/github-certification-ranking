@@ -1,6 +1,6 @@
 # 🇧🇷 TOP 10 GitHub Certifications - Brazil
 
-> Last updated: January 03, 2026 at 01:29 UTC
+> Last updated: January 04, 2026 at 01:52 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -11,11 +11,11 @@
 | 🥉 #3 | Felipe Augusto | 7 | Brazil |
 |    #4 | Danilo Perez | 7 | Brazil |
 |    #5 | Christiano Martins Milfont Almeida | 5 | Brazil |
-|    #6 | Juliano Dziadzio | 5 | Brazil |
-|    #7 | Diego Giglioli | 5 | Brazil |
-|    #8 | Eduarda Costa da Silva | 5 | Brazil |
-|    #9 | Beatriz Matsui | 5 | Brazil |
-|    #10 | Ednei Monteiro | 5 | Brazil |
+|    #6 | Eduarda Costa da Silva | 5 | Brazil |
+|    #7 | Juliano Dziadzio | 5 | Brazil |
+|    #8 | Diego Giglioli | 5 | Brazil |
+|    #9 | Ednei Monteiro | 5 | Brazil |
+|    #10 | Fernando Moreni | 5 | Brazil |
 
 ---
 
