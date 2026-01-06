@@ -181,8 +181,35 @@ def generate_markdown_top10(users, title, filename, filter_func=None):
     else:
         filtered_users = users
     
-    # Sort by badges (descending)
-    sorted_users = sorted(filtered_users, key=lambda x: x['badges'], reverse=True)[:10]
+    # Sort by badges (descending) then by name (alphabetically)
+    sorted_users = sorted(filtered_users, key=lambda x: (-x['badges'], x['name'].lower()))
+    
+    # Determine which users to include (top 10, but include ties)
+    top_users = []
+    current_rank = 0
+    prev_badges = None
+    rank_count = 0
+    
+    for user in sorted_users:
+        # Increment rank_count for each user processed
+        rank_count += 1
+        
+        # Assign rank: if badges changed, update current_rank to rank_count
+        if user['badges'] != prev_badges:
+            current_rank = rank_count
+            prev_badges = user['badges']
+        
+        # Include user if:
+        # - current_rank <= 10, OR
+        # - current_rank > 10 but has same badges as someone at rank 10
+        if current_rank <= 10:
+            top_users.append((current_rank, user))
+        elif top_users and user['badges'] == top_users[-1][1]['badges']:
+            # Include tied users even if rank > 10
+            top_users.append((current_rank, user))
+        else:
+            # No more users to include
+            break
     
     # Get outdated CSVs
     outdated = get_outdated_csvs()
@@ -198,10 +225,19 @@ def generate_markdown_top10(users, title, filename, filter_func=None):
 |------|------|--------|---------|
 """
     
-    for i, user in enumerate(sorted_users, 1):
-        # Add medal emoji for top 3
-        medal = {1: '🥇', 2: '🥈', 3: '🥉'}.get(i, '  ')
-        content += f"| {medal} #{i} | {user['name']} | {user['badges']} | {user['country']} |\n"
+    prev_rank = None
+    for rank, user in top_users:
+        # Add medal emoji for top 3 ranks (not positions)
+        medal = {1: '🥇', 2: '🥈', 3: '🥉'}.get(rank, '  ')
+        
+        # Show rank number only if it's different from previous
+        if rank != prev_rank:
+            rank_display = f"{medal} #{rank}"
+        else:
+            rank_display = f"{medal}    "  # Empty rank for tied users
+        
+        content += f"| {rank_display} | {user['name']} | {user['badges']} | {user['country']} |\n"
+        prev_rank = rank
     
     # Add statistics
     if filtered_users:
@@ -217,7 +253,7 @@ def generate_markdown_top10(users, title, filename, filter_func=None):
 - **Total Certified Users**: {total_users:,}
 - **Total Badges Earned**: {total_badges:,}
 - **Average Badges per User**: {avg_badges:.2f}
-- **Highest Badge Count**: {sorted_users[0]['badges'] if sorted_users else 0}
+- **Highest Badge Count**: {top_users[0][1]['badges'] if top_users else 0}
 
 ---
 """
