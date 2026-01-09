@@ -1,6 +1,6 @@
 # 🌎 TOP 10 GitHub Certifications - Americas
 
-> Last updated: January 08, 2026 at 16:30 UTC
+> Last updated: January 09, 2026 at 01:44 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
