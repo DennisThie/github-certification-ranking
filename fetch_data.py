@@ -83,12 +83,12 @@ def fetch_country_data(country, metadata):
         except Exception as e:
             return (country, 'failed', str(e))
     
-    # Regular countries use bash script
+    # Regular countries use Python script
     timeout = 300  # 5 minutes for all regular countries
     
     try:
         result = subprocess.run(
-            ['./cert-github.sh', country],
+            ['python3', 'fetch_country.py', country],
             timeout=timeout,
             capture_output=True,
             text=True

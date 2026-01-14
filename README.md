@@ -32,17 +32,37 @@
 The rankings are automatically updated daily via GitHub Actions:
 
 1. **Data Collection**: Fetches certification data from Credly API for all countries globally
+   - Collects **verified badges** from GitHub organization (Credly org ID: 63074953-290b-4dce-86ce-ea04b4187219)
+   - Collects **external badges** (GitHub certifications issued by Microsoft via learn.microsoft.com)
    - Uses parallel processing with `fetch_data.py` for fast data retrieval
    - Specialized `fetch_large_country.py` for countries with large datasets (e.g., India, United States)
    - Smart metadata tracking to skip recently updated countries and optimize API usage
 2. **Data Storage**: All certification data stored in the `datasource/` directory
    - Individual CSV files per country (e.g., `github-certs-brazil.csv`)
+   - Badge counts include both verified (GitHub org) and external (Microsoft) badges
    - Metadata tracking in `csv_metadata.json` for update timestamps
 3. **Processing**: Consolidates data from 190+ country CSV files
 4. **Ranking Generation**: Creates TOP 10 rankings for each region using `generate_rankings.py`
    - Regional rankings: Brazil, Americas, Europe, Asia, Oceania
    - Global ranking with top performers worldwide
 5. **Auto-Commit**: Updates markdown files automatically with latest rankings
+
+### ℹ️ GitHub Certifications Sources
+
+This project now tracks GitHub certifications from **two sources**:
+
+1. **Credly Verified Badges** - Issued directly by GitHub organization
+   - GitHub Foundations
+   - GitHub Actions  
+   - GitHub Advanced Security
+   - GitHub Administration
+   - GitHub Copilot
+   
+2. **Microsoft External Badges** - GitHub certifications now issued via Microsoft Learn
+   - GitHub Foundations (Microsoft Certified)
+   - Other GitHub certifications transitioned to Microsoft
+
+> **Note**: As of 2024, GitHub migrated certification issuance to Microsoft Learn. This tool now counts certifications from both platforms to provide accurate rankings.
 
 ## 🚀 Manual Execution
 
