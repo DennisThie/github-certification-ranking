@@ -128,6 +128,7 @@ def read_all_csv_files(base_path):
                             first_name = row.get('first_name', '').strip('"').strip()
                             middle_name = row.get('middle_name', '').strip('"').strip()
                             last_name = row.get('last_name', '').strip('"').strip()
+                            profile_url = row.get('profile_url', '').strip('"').strip()
                             
                             # Build full name
                             name_parts = [first_name]
@@ -141,7 +142,8 @@ def read_all_csv_files(base_path):
                                 'name': full_name,
                                 'badges': badge_count,
                                 'country': country_display,
-                                'continent': continent
+                                'continent': continent,
+                                'profile_url': profile_url
                             })
                     except (ValueError, KeyError):
                         continue
@@ -236,7 +238,13 @@ def generate_markdown_top10(users, title, filename, filter_func=None):
             # For tied users: empty cell
             rank_display = ""
         
-        content += f"| {rank_display} | {user['name']} | {user['badges']} | {user['country']} |\n"
+        # Add profile link if available
+        name_display = user['name']
+        if user.get('profile_url'):
+            profile_url = f"https://www.credly.com{user['profile_url']}"
+            name_display = f"[{user['name']}]({profile_url})"
+        
+        content += f"| {rank_display} | {name_display} | {user['badges']} | {user['country']} |\n"
         prev_rank = rank
     
     # Add statistics
