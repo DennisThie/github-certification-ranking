@@ -1,28 +1,28 @@
 # 🌎 TOP 10 GitHub Certifications - Americas
 
-> Last updated: January 16, 2026 at 09:44 UTC
+> Last updated: January 16, 2026 at 17:05 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
 | 🥇 #1 | [Andre Dias](https://www.credly.com/users/andredias/badges) | 14 | Avanade | Brazil |
-| 🥈 #2 | [Daniel Koch](https://www.credly.com/users/daniel-koch.dc5d8183/badges) | 12 | CodeCargo | United States |
-| 🥉 #3 | [John Wildes](https://www.credly.com/users/john-wildes/badges) | 11 |  | United States |
-| #4 | [Benjamin Marsteau](https://www.credly.com/users/bmarsteau/badges) | 10 | Onepoint | Canada |
-| #5 | [Bill Schneider](https://www.credly.com/users/bill-schneider.7f045131/badges) | 9 |  | United States |
+|  | [Felipe Augusto](https://www.credly.com/users/felipementel/badges) | 14 | Avanade | Brazil |
+| 🥉 #3 | [Daniel Koch](https://www.credly.com/users/daniel-koch.dc5d8183/badges) | 13 | CodeCargo | United States |
+| #4 | [Andre Nunes](https://www.credly.com/users/andre-nunes.0d03ef9b/badges) | 11 | Avanade | Brazil |
+|  | [John Wildes](https://www.credly.com/users/john-wildes/badges) | 11 |  | United States |
+| #6 | [Benjamin Marsteau](https://www.credly.com/users/bmarsteau/badges) | 10 | Onepoint | Canada |
+|  | [Francisco Nascimento](https://www.credly.com/users/francisco-nascimento.f7a5a9f3/badges) | 10 | Avanade | Brazil |
+|  | [luana Vieira](https://www.credly.com/users/luana-vieira.36aca490/badges) | 10 |  | Brazil |
+| #9 | [Bill Schneider](https://www.credly.com/users/bill-schneider.7f045131/badges) | 9 |  | United States |
 |  | [Erol Kavas](https://www.credly.com/users/erol/badges) | 9 | PwC | Canada |
-| #7 | [Felipe Augusto](https://www.credly.com/users/felipementel/badges) | 8 | Avanade | Brazil |
-|  | [Parker Johnston](https://www.credly.com/users/parker-johnston/badges) | 8 |  | United States |
-| #9 | [Danilo Perez](https://www.credly.com/users/daniloperez/badges) | 7 |  | Brazil |
-|  | [Joao Pedro Alexandre Vieira](https://www.credly.com/users/joao-pedro-alexandre-vieira/badges) | 7 | Avanade | Brazil |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 6,772
-- **Total Badges Earned**: 8,529
+- **Total Certified Users**: 6,767
+- **Total Badges Earned**: 8,560
 - **Average Badges per User**: 1.26
 - **Highest Badge Count**: 14
 
