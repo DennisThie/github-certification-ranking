@@ -60,20 +60,20 @@ The rankings are automatically updated daily via GitHub Actions:
 
 ### ℹ️ GitHub Certifications Sources
 
-This project tracks GitHub certifications from **two sources**:
+This project tracks **ALL GitHub certifications** from two sources:
 
-1. **GitHub Organization Badges** - Official certifications issued directly by GitHub
-   - GitHub Foundations
-   - GitHub Actions  
-   - GitHub Advanced Security
-   - GitHub Administration
-   - GitHub Copilot
+1. **GitHub Organization Badges** - All certifications issued directly by GitHub on Credly
+   - **Core Certifications**: Foundations, Actions, Advanced Security, Administration, Copilot
+   - **Partner Credentials**: Migrations, AzureDevOps Migrations, Advanced Security Partner Delivery
+   - **Sales Badges**: FY26 Sales Professional, Revenue Motions, Platform, Copilot, etc.
+   - **Professional Badges**: Tech Sales Professional, Sales Professional
+   - **Any other badge** issued by the GitHub organization
    
 2. **Microsoft-Issued Badges** - GitHub certifications transitioned to Microsoft Learn
    - GitHub Foundations (Microsoft Certified)
    - Other GitHub certifications now issued via learn.microsoft.com
 
-> **Note**: As of 2024, GitHub migrated certification issuance to Microsoft Learn. Both sources are tracked to provide complete and accurate rankings.
+> **Note**: All badges from the GitHub organization on Credly are counted, not just the core certifications. As of 2024, GitHub migrated some certification issuance to Microsoft Learn.
 
 ### 🎯 Ranking Accuracy
 
