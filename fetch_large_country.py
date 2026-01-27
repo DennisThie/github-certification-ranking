@@ -48,8 +48,9 @@ def fetch_github_external_badges(user_id):
                     valid_github_badges += 1
         
         return valid_github_badges
-    except Exception:
+    except Exception as e:
         # If external badges endpoint fails, return 0 (user may have no external badges)
+        print(f"    ⚠️  Warning: Failed to fetch external badges for user {user_id}: {str(e)}")
         return 0
 
 def fetch_github_org_badges(user_id):
@@ -93,8 +94,9 @@ def fetch_github_org_badges(user_id):
                 break
         
         return valid_badges
-    except Exception:
+    except Exception as e:
         # If badges endpoint fails, return 0
+        print(f"    ⚠️  Warning: Failed to fetch org badges for user {user_id}: {str(e)}")
         return 0
 
 def fetch_page(country, page):
@@ -182,7 +184,8 @@ def fetch_country_parallel(country, max_workers=20):
                     badge_count = future.result()
                     user_badge_counts[user_id] = badge_count
                     completed += 1
-                except Exception:
+                except Exception as e:
+                    print(f"    ⚠️  Error fetching badges for user {user_id}: {str(e)}")
                     user_badge_counts[user_id] = 0
         
         print(f"  Processed {len(user_badge_counts)} top candidates")
