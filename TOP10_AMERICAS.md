@@ -1,19 +1,20 @@
 # 🌎 TOP 10 GitHub Certifications - Americas
 
-> Last updated: January 28, 2026 at 01:49 UTC
+> Last updated: January 28, 2026 at 14:01 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
-| 🥇 #1 | [Andre Dias](https://www.credly.com/users/andredias/badges) | 15 | Avanade | Brazil |
+| 🥇 #1 | [Joao Pedro Alexandre Vieira](https://www.credly.com/users/joao-pedro-alexandre-vieira/badges) | 17 | Avanade | Brazil |
+| 🥈 #2 | [Andre Dias](https://www.credly.com/users/andredias/badges) | 15 | Avanade | Brazil |
 |  | [Felipe Augusto](https://www.credly.com/users/felipementel/badges) | 15 | Avanade | Brazil |
-| 🥉 #3 | [Andre Nunes](https://www.credly.com/users/andre-nunes.0d03ef9b/badges) | 13 | Avanade | Brazil |
+| #4 | [Andre Nunes](https://www.credly.com/users/andre-nunes.0d03ef9b/badges) | 13 | Avanade | Brazil |
 |  | [Daniel Koch](https://www.credly.com/users/daniel-koch.dc5d8183/badges) | 13 | CodeCargo | United States |
-| #5 | [Francisco Nascimento](https://www.credly.com/users/francisco-nascimento.f7a5a9f3/badges) | 11 | Avanade | Brazil |
+| #6 | [Francisco Nascimento](https://www.credly.com/users/francisco-nascimento.f7a5a9f3/badges) | 11 | Avanade | Brazil |
 |  | [John Wildes](https://www.credly.com/users/john-wildes/badges) | 11 |  | United States |
 |  | [Luana Corrêa Vieira](https://www.credly.com/users/luana-vieira.36aca490/badges) | 11 | Avanade | Brazil |
-| #8 | [Benjamin Marsteau](https://www.credly.com/users/bmarsteau/badges) | 10 | Onepoint | Canada |
+| #9 | [Benjamin Marsteau](https://www.credly.com/users/bmarsteau/badges) | 10 | Onepoint | Canada |
 |  | [Diego Giglioli](https://www.credly.com/users/diego-giglioli.bb64eaa5/badges) | 10 | Avanade | Brazil |
 |  | [Leonardo Vizagre](https://www.credly.com/users/leonardo.vizagre/badges) | 10 | Avanade | Brazil |
 
@@ -22,9 +23,9 @@
 ## 📊 Statistics
 
 - **Total Certified Users**: 6,787
-- **Total Badges Earned**: 8,558
+- **Total Badges Earned**: 8,567
 - **Average Badges per User**: 1.26
-- **Highest Badge Count**: 15
+- **Highest Badge Count**: 17
 
 ---
 
