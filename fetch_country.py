@@ -45,7 +45,11 @@ def fetch_github_external_badges(user_id):
             expires_at_date = badge.get('expires_at_date')
             
             # Check if it's a GitHub certification issued by Microsoft and not expired
-            if issuer_name == 'Microsoft' and 'GitHub' in badge_name:
+            # Also includes Microsoft Certified: DevOps Engineer Expert
+            is_github_cert = 'GitHub' in badge_name
+            is_devops_expert = badge_name == 'Microsoft Certified: DevOps Engineer Expert'
+            
+            if issuer_name == 'Microsoft' and (is_github_cert or is_devops_expert):
                 if not is_badge_expired(expires_at_date):
                     # Only count if badge name is unique
                     unique_badge_names.add(badge_name)
