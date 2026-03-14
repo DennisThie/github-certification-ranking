@@ -1,6 +1,6 @@
 # 🌊 TOP 10 GitHub Certifications - Oceania
 
-> Last updated: March 13, 2026 at 01:58 UTC
+> Last updated: March 14, 2026 at 01:55 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -12,7 +12,8 @@
 |  | [Jerome Brown](https://www.credly.com/users/owretch/badges) | 5 | Mantel Group | New Zealand |
 |  | [Maxim Mazurok](https://www.credly.com/users/maxim-mazurok/badges) | 5 | WiseTech Global | Australia |
 |  | [Sebastian Peter](https://www.credly.com/users/sebastian-peter/badges) | 5 | Tata Consultancy Services | Australia |
-| #7 | [Andre Kolodochka](https://www.credly.com/users/andre-kolodochka/badges) | 4 |  | Australia |
+|  | [Stuart Eggerton](https://www.credly.com/users/stuart-eggerton/badges) | 5 |  | Australia |
+| #8 | [Andre Kolodochka](https://www.credly.com/users/andre-kolodochka/badges) | 4 |  | Australia |
 |  | [Jesse Loudon](https://www.credly.com/users/jesseloudon/badges) | 4 |  | Australia |
 |  | [Jiayi Qin](https://www.credly.com/users/jiayi-qin.b8b33e2c/badges) | 4 |  | Australia |
 |  | [Jolan Hu](https://www.credly.com/users/jolan-hu/badges) | 4 |  | Australia |
@@ -29,9 +30,9 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 582
-- **Total Badges Earned**: 792
-- **Average Badges per User**: 1.36
+- **Total Certified Users**: 583
+- **Total Badges Earned**: 798
+- **Average Badges per User**: 1.37
 - **Highest Badge Count**: 14
 
 ---
