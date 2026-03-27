@@ -1,6 +1,6 @@
 # 🌊 TOP 10 GitHub Certifications - Oceania
 
-> Last updated: March 26, 2026 at 02:10 UTC
+> Last updated: March 27, 2026 at 02:11 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -11,7 +11,7 @@
 |  | [Hao Chen](https://www.credly.com/users/hao-chen.c4b252a3/badges) | 5 |  | New Zealand |
 |  | [Jerome Brown](https://www.credly.com/users/owretch/badges) | 5 | Mantel Group | New Zealand |
 |  | [Maxim Mazurok](https://www.credly.com/users/maxim-mazurok/badges) | 5 | WiseTech Global | Australia |
-|  | [Sebastian Peter](https://www.credly.com/users/sebastian-peter/badges) | 5 |  | Australia |
+|  | [Sebastian Peter](https://www.credly.com/users/sebastian-peter/badges) | 5 | Tata Consultancy Services | Australia |
 |  | [Stuart Eggerton](https://www.credly.com/users/stuart-eggerton/badges) | 5 |  | Australia |
 | #8 | [Andre Kolodochka](https://www.credly.com/users/andre-kolodochka/badges) | 4 |  | Australia |
 |  | [Jesse Loudon](https://www.credly.com/users/jesseloudon/badges) | 4 |  | Australia |
