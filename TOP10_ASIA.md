@@ -1,12 +1,12 @@
 # 🌏 TOP 10 GitHub Certifications - Asia
 
-> Last updated: April 11, 2026 at 02:07 UTC
+> Last updated: April 12, 2026 at 02:29 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
-| 🥇 #1 | [Akshay A](https://www.credly.com/users/akshay-algeri/badges) | 18 | Canarys Automations Limited | India |
+| 🥇 #1 | [Akshay Algeri](https://www.credly.com/users/akshay-algeri/badges) | 18 | Canarys Automations Limited | India |
 | 🥈 #2 | [Naveen Kunder](https://www.credly.com/users/naveenkunder/badges) | 16 | Canarys Automations Limited | India |
 | 🥉 #3 | [Mihir Kulkarni](https://www.credly.com/users/mihir-kulkarni.00d25bea/badges) | 15 | XPT Software | India |
 |  | [Niranjana K](https://www.credly.com/users/niranjana-koni/badges) | 15 | Canarys Automations Limited | India |
@@ -21,8 +21,8 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 12,188
-- **Total Badges Earned**: 14,463
+- **Total Certified Users**: 12,185
+- **Total Badges Earned**: 14,465
 - **Average Badges per User**: 1.19
 - **Highest Badge Count**: 18
 
