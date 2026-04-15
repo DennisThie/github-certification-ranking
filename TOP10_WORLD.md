@@ -1,6 +1,6 @@
 # 🌍 TOP 10 GitHub Certifications - Global
 
-> Last updated: April 14, 2026 at 02:29 UTC
+> Last updated: April 15, 2026 at 02:18 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -15,14 +15,16 @@
 | #7 | [Akshay Algeri](https://www.credly.com/users/akshay-algeri/badges) | 18 | Canarys Automations Limited | India |
 |  | [Barnes Chism](https://www.credly.com/users/barnes-chism/badges) | 18 | Xebia | United States |
 |  | [Diego Giglioli](https://www.credly.com/users/diego-giglioli.bb64eaa5/badges) | 18 | Avanade | Brazil |
-|  | [Vincent Marchal](https://www.credly.com/users/vincent-marchal.87a05753/badges) | 18 | Avanade | France |
+| #10 | [Joao Pedro Alexandre Vieira](https://www.credly.com/users/joao-pedro-alexandre-vieira/badges) | 17 | Avanade | Brazil |
+|  | [Joas de Groot](https://www.credly.com/users/joas707/badges) | 17 | Delta-N | Netherlands |
+|  | [Shankaragoud Biradar](https://www.credly.com/users/shankaragoud-biradar.23a05304/badges) | 17 | Canarys Automations Limited | India |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 24,943
-- **Total Badges Earned**: 31,645
+- **Total Certified Users**: 24,935
+- **Total Badges Earned**: 31,588
 - **Average Badges per User**: 1.27
 - **Highest Badge Count**: 19
 
