@@ -1,6 +1,6 @@
 # 🇪🇺 TOP 10 GitHub Certifications - Europe
 
-> Last updated: April 15, 2026 at 02:18 UTC
+> Last updated: April 16, 2026 at 02:34 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -10,9 +10,9 @@
 |  | [Joost Voskuil](https://www.credly.com/users/joost-voskuil/badges) | 19 | Delta-N | Netherlands |
 |  | [Peter Szekeli](https://www.credly.com/users/peter-szekeli/badges) | 19 | Xebia | Netherlands |
 |  | [Sujith Quintelier](https://www.credly.com/users/sujith/badges) | 19 | Microsoft | Belgium |
-| #5 | [Joas de Groot](https://www.credly.com/users/joas707/badges) | 17 | Delta-N | Netherlands |
-| #6 | [Hidde de Smet](https://www.credly.com/users/hidde-de-smet/badges) | 16 | Xebia | Netherlands |
-|  | [Olivier Delmotte](https://www.credly.com/users/o.delmotte/badges) | 16 | Avanade | France |
+| #5 | [Vincent Marchal](https://www.credly.com/users/vincent-marchal.87a05753/badges) | 18 | Avanade | France |
+| #6 | [Joas de Groot](https://www.credly.com/users/joas707/badges) | 17 | Delta-N | Netherlands |
+| #7 | [Hidde de Smet](https://www.credly.com/users/hidde-de-smet/badges) | 16 | Xebia | Netherlands |
 |  | [Rob Bos](https://www.credly.com/users/rob-bos/badges) | 16 | Xebia | Netherlands |
 | #9 | [Fabian Biesheuvel](https://www.credly.com/users/fabian-biesheuvel/badges) | 15 | Delta-N | Netherlands |
 | #10 | [Christos Galanopoulos](https://www.credly.com/users/christos-galanopoulos/badges) | 14 |  | Greece |
@@ -23,8 +23,8 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 4,162
-- **Total Badges Earned**: 5,966
+- **Total Certified Users**: 4,146
+- **Total Badges Earned**: 5,933
 - **Average Badges per User**: 1.43
 - **Highest Badge Count**: 19
 

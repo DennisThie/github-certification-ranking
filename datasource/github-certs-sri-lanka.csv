@@ -2,7 +2,7 @@ first_name,middle_name,last_name,badge_count,profile_url
 IIT21007,,ANANDA K.K.G.P.,1,/users/iit21007-ananda-k-k-g-p/badges
 Esham,,Aaqib,1,/users/esham-aaqib/badges
 Sanoj,,Ahamed,1,/users/sanoj-ahamed/badges
-Muhammadh,,Ahzem,1,/users/ahzem/badges
+Muhammadh,,Ahzem,0,/users/ahzem/badges
 Gihantha,,Alahapperuma,1,/users/gihantha-alahapperuma/badges
 Kavindu,,Alwis,1,/users/kavindu_alwis/badges
 Lakindu,Widuranga,Alwis,1,/users/masterlwa/badges
@@ -16,7 +16,7 @@ Supun,,Anushka,1,/users/supun-anushka/badges
 Linuka,,Arambawela,1,/users/linuka-arambawela/badges
 Bashith,,Ashen,1,/users/bashith-ashen/badges
 Mohamed,,Asry,1,/users/mohamed-asry/badges
-Rukshana,,Attygalle,1,/users/rukshana-attygalle/badges
+Rukshana,,Attygalle,0,/users/rukshana-attygalle/badges
 Kahatapitiyage,,Avishka Niroshana Perera,1,/users/kahatapitiyage-avishka-niroshana-perera/badges
 Keshani,,Balasuriya,1,/users/keshani-balasooriya/badges
 Lalinda,Kumara,Bamunusingha,1,/users/lalinda-bamunusingha/badges
@@ -221,7 +221,6 @@ Deshan,,Senarathne,1,/users/deshan-senarathne/badges
 Malintha,,Senavirathna,1,/users/malinthasenavirathna/badges
 Kavindu,,Shamal,1,/users/kavindu-shamal/badges
 Milinda,,Shehan,1,/users/milinda-shehan/badges
-Lasantha,Sanjeewa,Silva,1,/users/lasantha-sanjeewa.e15df91a/badges
 Malithi,,Silva,1,/users/malithi-silva/badges
 Srilal,Sachintha,Siriwardhane,1,/users/srilal-sachintha/badges
 Ben,,Subendran,1,/users/hanancs/badges
