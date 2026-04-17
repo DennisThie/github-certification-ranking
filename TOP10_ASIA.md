@@ -1,17 +1,17 @@
 # 🌏 TOP 10 GitHub Certifications - Asia
 
-> Last updated: April 16, 2026 at 02:34 UTC
+> Last updated: April 17, 2026 at 02:29 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
 | 🥇 #1 | [Akshay Algeri](https://www.credly.com/users/akshay-algeri/badges) | 18 | Canarys Automations Limited | India |
-| 🥈 #2 | [Shankaragoud Biradar](https://www.credly.com/users/shankaragoud-biradar.23a05304/badges) | 17 | Canarys Automations Limited | India |
-| 🥉 #3 | [Naveen Kunder](https://www.credly.com/users/naveenkunder/badges) | 16 | Canarys Automations Limited | India |
+| 🥈 #2 | [Niranjana K](https://www.credly.com/users/niranjana-koni/badges) | 17 | Canarys Automations Limited | India |
+|  | [Shankaragoud Biradar](https://www.credly.com/users/shankaragoud-biradar.23a05304/badges) | 17 | Canarys Automations Limited | India |
+| #4 | [Naveen Kunder](https://www.credly.com/users/naveenkunder/badges) | 16 | Canarys Automations Limited | India |
 |  | [Sandeep Doddamani](https://www.credly.com/users/sandeep-doddamani/badges) | 16 | Canarys Automations Limited | India |
-| #5 | [Mihir Kulkarni](https://www.credly.com/users/mihir-kulkarni.00d25bea/badges) | 15 |  | India |
-|  | [Niranjana K](https://www.credly.com/users/niranjana-koni/badges) | 15 | Canarys Automations Limited | India |
+| #6 | [Mihir Kulkarni](https://www.credly.com/users/mihir-kulkarni.00d25bea/badges) | 15 | XPT Software | India |
 |  | [Rajesh C N](https://www.credly.com/users/rajesh-c-n/badges) | 15 | Xebia | India |
 | #8 | [Dasari Ramesh Kumar](https://www.credly.com/users/ramesh.dasari/badges) | 14 | Xebia | India |
 |  | [Praveen Huliyappanavar](https://www.credly.com/users/praveen-huliyappanavar/badges) | 14 | Canarys Automations Limited | India |
@@ -21,8 +21,8 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 12,173
-- **Total Badges Earned**: 14,447
+- **Total Certified Users**: 12,179
+- **Total Badges Earned**: 14,461
 - **Average Badges per User**: 1.19
 - **Highest Badge Count**: 18
 
