@@ -1,6 +1,6 @@
 # 🌎 TOP 10 GitHub Certifications - Americas
 
-> Last updated: April 19, 2026 at 02:33 UTC
+> Last updated: April 20, 2026 at 02:35 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -15,16 +15,14 @@
 |  | [rich schwarz](https://www.credly.com/users/rich-schwarz/badges) | 16 | Xebia | United States |
 | #8 | [Andre Nunes](https://www.credly.com/users/andre-nunes.0d03ef9b/badges) | 15 | Avanade | Brazil |
 |  | [Evan Allen](https://www.credly.com/users/evan_allen/badges) | 15 | Xebia | United States |
-| #10 | [Jânio Santos](https://www.credly.com/users/janio-santos-silva/badges) | 14 | Avanade | Brazil |
-|  | [Leonardo Vizagre](https://www.credly.com/users/leonardo.vizagre/badges) | 14 | Avanade | Brazil |
-|  | [Luana Corrêa Vieira](https://www.credly.com/users/luana-vieira.36aca490/badges) | 14 | Avanade | Brazil |
+|  | [Kaan Turgut](https://www.credly.com/users/hkaanturgut/badges) | 15 | Lenovo | Canada |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 6,852
-- **Total Badges Earned**: 9,034
+- **Total Certified Users**: 6,840
+- **Total Badges Earned**: 9,007
 - **Average Badges per User**: 1.32
 - **Highest Badge Count**: 19
 
