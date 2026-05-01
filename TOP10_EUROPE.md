@@ -1,6 +1,6 @@
 # 🇪🇺 TOP 10 GitHub Certifications - Europe
 
-> Last updated: April 30, 2026 at 02:48 UTC
+> Last updated: May 01, 2026 at 02:54 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -13,16 +13,18 @@
 | #5 | [Vincent Marchal](https://www.credly.com/users/vincent-marchal.87a05753/badges) | 18 | Avanade | France |
 | #6 | [Joas de Groot](https://www.credly.com/users/joas707/badges) | 17 | Delta-N | Netherlands |
 | #7 | [Hidde de Smet](https://www.credly.com/users/hidde-de-smet/badges) | 16 | Xebia | Netherlands |
-|  | [Olivier Delmotte](https://www.credly.com/users/o.delmotte/badges) | 16 | Avanade | France |
 |  | [Rob Bos](https://www.credly.com/users/rob-bos/badges) | 16 | Xebia | Netherlands |
-| #10 | [Fabian Biesheuvel](https://www.credly.com/users/fabian-biesheuvel/badges) | 15 | Delta-N | Netherlands |
+| #9 | [Fabian Biesheuvel](https://www.credly.com/users/fabian-biesheuvel/badges) | 15 | Delta-N | Netherlands |
+| #10 | [Christos Galanopoulos](https://www.credly.com/users/christos-galanopoulos/badges) | 14 |  | Greece |
+|  | [Dennis Thie](https://www.credly.com/users/dennisthie/badges) | 14 | Xebia | Netherlands |
+|  | [Madis Kõosaar](https://www.credly.com/users/madis-koosaar/badges) | 14 |  | Estonia |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 4,145
-- **Total Badges Earned**: 5,941
+- **Total Certified Users**: 4,156
+- **Total Badges Earned**: 5,948
 - **Average Badges per User**: 1.43
 - **Highest Badge Count**: 19
 
