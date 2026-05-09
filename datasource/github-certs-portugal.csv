@@ -1,5 +1,5 @@
 first_name,middle_name,last_name,badge_count,profile_url
-Anderson,,Acosta,0,/users/anderson-acosta/badges
+Anderson,,Acosta,1,/users/anderson-acosta/badges
 Ezgi,,Agcagul,1,/users/ezgi-agcagul.0d40d033/badges
 Carlos,,Alexandre,1,/users/carlos-alexandre.3c078f5d/badges
 Antonio,,Alves,1,/users/antonio-alves.913f9d40/badges
@@ -38,7 +38,7 @@ João,,Caçote,1,/users/joao-cacote.c8f0625d/badges
 Marco,,Coelho,1,/users/marco-coelho.2cb54ca3/badges
 Ivo,,Cosme,1,/users/ivo-cosme/badges
 Diogo,,Costa,1,/users/diogo-costa.3f57f918/badges
-Eric Joseph,,Costa,0,/users/eric-joseph-costa/badges
+Eric Joseph,,Costa,2,/users/eric-joseph-costa/badges
 Ivo,,Costa,1,/users/ivo-costa.c14a1277/badges
 Livio,,Costa,1,/users/livio-costa.416f3083/badges
 Marcelo,,Costa,1,/users/marcelotpcosta/badges
@@ -150,7 +150,7 @@ Rui,Pedro,Silva,1,/users/rpvsilva/badges
 Sofia,,Silva,1,/users/sofia-silva.5c31a98a/badges
 Tiago,,Silva,1,/users/tiago-silva.771780cd/badges
 Miguel,,Simao,2,/users/miguel-simao.07c349ae/badges
-João,,Simões,0,/users/joao-simoes.1a7beb06/badges
+João,,Simões,2,/users/joao-simoes.1a7beb06/badges
 André,,Soares,2,/users/andre-soares.2832d101/badges
 Miguel,,Sousa,1,/users/miguel-sousa.972c6885/badges
 Nuno,,Sousa,1,/users/nunosowza/badges
