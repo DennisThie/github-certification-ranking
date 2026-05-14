@@ -1,6 +1,6 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Htoo,Myat,Aung,1,/users/htoo-myat-aung/badges
-Shwe Win,,Aung,1,/users/shwe-win-aung/badges
+Shwe Win,,Aung,0,/users/shwe-win-aung/badges
 Zaw Phyo,,Aung,1,/users/zaw-phyo-aung.b63d92f9/badges
 Bo Bo,,Han,1,/users/bo-bo-han.ac19738f/badges
 Khant,,Hmue,1,/users/khant-hmue/badges
@@ -26,11 +26,11 @@ Ye Yint,,Thu,1,/users/ye-yint-thu.760c5fbd/badges
 Phyo,,Thura,1,/users/phyo-thura.4723e313/badges
 Soe,,Thura,1,/users/thixpin/badges
 Yarzar,,Tin Shwe,1,/users/yarzar-tin-shwe/badges
-Thida,,Tun,0,/users/thida-tun/badges
+Thida,,Tun,2,/users/thida-tun/badges
 Sithu,,Win,1,/users/sithu-win/badges
 Htet Aung,,Yin,1,/users/hay-pp/badges
-Kaung Thant,,Zae,1,/users/kaung-thant-zae/badges
 Hein,Htet,Zan,1,/users/hein-htet-zan.7d07e1e7/badges
+Kaung Thant,,Zaw,1,/users/kaung-thant-zae/badges
 Thiha,,Zaw,1,/users/thiha-zaw.e8ef64b4/badges
 than,,htut,1,/users/than-htut.1a5c3a94/badges
 win ko,,ko,1,/users/win-ko-ko.64807f4d/badges
