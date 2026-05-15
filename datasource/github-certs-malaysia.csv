@@ -1,25 +1,25 @@
 first_name,middle_name,last_name,badge_count,profile_url
-MUHAMMAD AMMAR DANIAL,,ABDULLAH,1,/users/muhammad-ammar-danial-abdullah/badges
-MUHAMMAD,,AFIQ BIN ZAINIDAR,1,/users/muhammad-afiq-bin-zainidar/badges
-Zunnun Zubaide,,Abdul Jamal,1,/users/zunnun-zubaide-abdul-jamal/badges
-Muhammad,,Akram,1,/users/muhammad-akram.86741664/badges
+MUHAMMAD AMMAR DANIAL,,ABDULLAH,0,/users/muhammad-ammar-danial-abdullah/badges
+MUHAMMAD,,AFIQ BIN ZAINIDAR,0,/users/muhammad-afiq-bin-zainidar/badges
+Zunnun Zubaide,,Abdul Jamal,0,/users/zunnun-zubaide-abdul-jamal/badges
+Muhammad,,Akram,0,/users/muhammad-akram.86741664/badges
 Chin Keong,,Ang,1,/users/chin-keong-ang/badges
 MOHAMED ARIFIN DENSUMITE,,BIN JAMDI,1,/users/mohamed-arifin-densumite-bin-jamdi/badges
 Prabakaran,,Baskaran,1,/users/prabakaran-baskaran.c664a04f/badges
-Mohd Amirol,,Bin Ahmad,1,/users/amirolahmad/badges
-Muhamad Arif,,Bin Johar,1,/users/muhamad-arif-bin-johar/badges
-MOHAMMAD ARFAN HAZIQ,,Bin Razlan,1,/users/mohammad-arfan-haziq-bin-razlan/badges
-Chow,,Bo Xuan,1,/users/chow-bo-xuan/badges
+Mohd Amirol,,Bin Ahmad,0,/users/amirolahmad/badges
+Muhamad Arif,,Bin Johar,0,/users/muhamad-arif-bin-johar/badges
+MOHAMMAD ARFAN HAZIQ,,Bin Razlan,0,/users/mohammad-arfan-haziq-bin-razlan/badges
+Chow,,Bo Xuan,0,/users/chow-bo-xuan/badges
 Ivan,,Brygar,2,/users/ivan-brygar/badges
 WONG,,CHOU ZI,1,/users/wong-chou-zi/badges
-Seng Guan,,Ch'ng,1,/users/seng-guan-ch-ng/badges
-Ming Li,,Chan,1,/users/ming-li-chan/badges
+Seng Guan,,Ch'ng,0,/users/seng-guan-ch-ng/badges
+Ming Li,,Chan,0,/users/ming-li-chan/badges
 Kok Shen,,Chang,1,/users/kok-shen-chang/badges
 Yu Yang,,Chang,1,/users/yu-yang-chang/badges
 Loo,,Chee Heong,0,/users/loo-chee-heong/badges
-Wei Bin,,Chiu,1,/users/wei-bin-chiu.f886941c/badges
-Wei Bin,,Chiu,2,/users/wei-bin-chiu/badges
-Ashwath Narayana,,D R,1,/users/ashwath-narayana-d-r/badges
+Wei Bin,,Chiu,0,/users/wei-bin-chiu.f886941c/badges
+Wei Bin,,Chiu,0,/users/wei-bin-chiu/badges
+Ashwath Narayana,,D R,0,/users/ashwath-narayana-d-r/badges
 Rezza,,Danial,1,/users/rezza-danial/badges
 Yap,,Deh Kai,1,/users/yap-deh-kai/badges
 Koay,,Eng Keong,1,/users/koay-eng-keong/badges
@@ -36,7 +36,7 @@ Teo,,Jun Jia,1,/users/teo-jun-jia.6d4ed846/badges
 Hor,,Kah Yee,1,/users/hor-kah-yee/badges
 Brandon Ban,,Kai Xian,1,/users/brandon-ban-kai-xian/badges
 Sudersan,,Kannan,1,/users/sudersan-kannan/badges
-Zhi Jie,,Khiew,3,/users/zhi-jie-khiew/badges
+Zhi Jie,,Khiew,0,/users/zhi-jie-khiew/badges
 Karthikkumar,,Krishnan,1,/users/karthikkumar-krishnan/badges
 Kai Yong,,Lai,1,/users/lai-kai-yong/badges
 Meng Siong,,Lee,1,/users/meng-siong-lee/badges
@@ -53,7 +53,7 @@ KHAI CHIN,,OOI,1,/users/khai-chin-ooi/badges
 Sujay,,Pillai,1,/users/sujay-pillai.eb9a78ce/badges
 Khan,,Ren,1,/users/khan-ren/badges
 Selvaganapathy,,Sabapathy,1,/users/selvaganapathy-sabapathy/badges
-Noel Foo,,Sei Wee,2,/users/noel-foo-sei-wee/badges
+Noel Foo,,Sei Wee,0,/users/noel-foo-sei-wee/badges
 Tamel,,Selvam,1,/users/tamel-selvam/badges
 Ivan,,Sim Zhong Cheng,1,/users/ivan-sim-zhong-cheng/badges
 Tan,,Soon Yao,1,/users/tan-soon-yao/badges
@@ -63,14 +63,14 @@ ZHENG YE,,TAN,1,/users/tanzhengye/badges
 Shen Lim,,Te,1,/users/shen-lim-te/badges
 Yeong Jing,,Toong,1,/users/yeong-jing-toong/badges
 Lim,,Tou Nam,1,/users/lim-you-nam/badges
-Yao Cherng,,Tsai,2,/users/yao-cherng-tsai/badges
+Yao Cherng,,Tsai,0,/users/yao-cherng-tsai/badges
 Kaustub,,V.S Madhu Sudhana Rao,1,/users/kaustub-v-s-madhu-sudhana-rao/badges
 Jayson,,Villaruel,0,/users/jysonv/badges
 Luke,,Wong,1,/users/luke-wong.5ad4ebc4/badges
 Shunfann,,Wu,1,/users/shunfann-wu/badges
-Alvin,,Yong,2,/users/alvin-yong.0ba01e7b/badges
+Alvin,,Yong,0,/users/alvin-yong.0ba01e7b/badges
 Charles,,Yong,1,/users/charles-yong.733e6494/badges
-Kevin,,Yong,2,/users/kevin-yong.83aa370c/badges
+Kevin,,Yong,0,/users/kevin-yong.83aa370c/badges
 LAW,,ZHEN CHENG,1,/users/law-zhen-cheng/badges
 Muhammad Suzaril Shah,bin,Zakaria,0,/users/suzarilshah/badges
 Ng,,Zhun Onn,1,/users/ngzhunonn/badges
