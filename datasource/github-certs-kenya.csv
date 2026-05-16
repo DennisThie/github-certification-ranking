@@ -1,17 +1,17 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Faiso,,Abdirisak,1,/users/faiso-abdirisak/badges
-Jully,,Achenchi,0,/users/jully-achenchi/badges
-Ahmed Najash,,Ahmed,0,/users/ahmed-najash-ahmed/badges
-Christopher,,Ambala,0,/users/o-c.b3f241e3/badges
+Jully,,Achenchi,1,/users/jully-achenchi/badges
+Ahmed Najash,,Ahmed,1,/users/ahmed-najash-ahmed/badges
+Christopher,,Ambala,1,/users/o-c.b3f241e3/badges
 Jeffarson,,Amenya,1,/users/machoga-jeffarson/badges
-Derrick,,Ampire,0,/users/derrick-ampire/badges
-Samwel,,Benard,0,/users/samwel-benard/badges
-Brian,,Chebon,0,/users/brian-chebon.107de790/badges
-Meshack,,Cheruiyot,0,/users/meshack-cheruiyot/badges
+Derrick,,Ampire,1,/users/derrick-ampire/badges
+Samwel,,Benard,1,/users/samwel-benard/badges
+Brian,,Chebon,1,/users/brian-chebon.107de790/badges
+Meshack,,Cheruiyot,1,/users/meshack-cheruiyot/badges
 ISAAC,,DATCH,1,/users/isaac-datch/badges
-James,,Gatheru,0,/users/james-gatheru/badges
-Susan,,Githaiga,0,/users/susan-githaiga.482763e8/badges
-Evalyne,,Githaka,0,/users/evalyne-githaka/badges
+James,,Gatheru,1,/users/james-gatheru/badges
+Susan,,Githaiga,1,/users/susan-githaiga.482763e8/badges
+Evalyne,,Githaka,1,/users/evalyne-githaka/badges
 Roy,,Githinji,1,/users/roy-githinji.e89415ea/badges
 Hamza,,Haji,1,/users/hamza-haji.3b49e4bd/badges
 Eric,,Hamisi,0,/users/eric-hamisi/badges
@@ -19,7 +19,7 @@ Manasseh,,Irungu,1,/users/manasseh-irungu/badges
 Francis,,Ishmail,1,/users/francis-ishmail/badges
 ALBERTO,,JUNIOR,1,/users/alberto-junior.9a762727/badges
 Fredrick,Mokua,Jaoko,1,/users/fredrick-jaoko/badges
-Peter,,Juma,0,/users/peter-juma/badges
+Peter,,Juma,3,/users/peter-juma/badges
 Felix,,Jumason,1,/users/felix-jumason/badges
 KENNETH,,KIMOSOP,1,/users/kenneth-kimosop/badges
 Emmanuel,,Kaloki,1,/users/emmanuel-kaloki/badges
@@ -51,8 +51,8 @@ Amos,,Machora,1,/users/amos-machora/badges
 Stephanie,,Makori,1,/users/stephanie-makori/badges
 Winnie,,Mandela,1,/users/winnie-mandela.59f03012/badges
 Clifford,,Mapesa,1,/users/clifford-mapesa/badges
-Wairimu,,Maringa,0,/users/wairimu-maringa/badges
-Mureti,,Martin,0,/users/mureti-martin.fdc2f4f7/badges
+Wairimu,,Maringa,2,/users/wairimu-maringa/badges
+Mureti,,Martin,2,/users/mureti-martin.fdc2f4f7/badges
 Sammy,,Mati,1,/users/sammy-mati/badges
 Justus,,Maundu,1,/users/justus-maundu/badges
 Major,Kiema,Mbandi,1,/users/major-mbandi/badges
@@ -60,7 +60,7 @@ Moses,,Mbuva,1,/users/moses-mbuva.db31344f/badges
 Ammarah,,Mohamed,1,/users/ammarah-mohamed/badges
 Moses,,Mtengo,1,/users/moses-mtengo/badges
 Ephraim,,Muasya,1,/users/ephraim-muasya.6da169ec/badges
-Geoffrey,,Muasya,0,/users/geoffrey-muasya/badges
+Geoffrey,,Muasya,2,/users/geoffrey-muasya/badges
 Eutychus,,Mugambi,1,/users/eutychus-mugambi/badges
 Javan,,Mugambi,1,/users/javan-mugambi.2a8297d8/badges
 Ann,,Mukami,1,/users/ann-mukami.ee620b26/badges
@@ -69,7 +69,7 @@ Silvia,,Muthangya,1,/users/silvia-muthangya/badges
 Diana,,Mutheu,1,/users/diana-mutheu/badges
 Augustine,,Mwangi,1,/users/augustine-mwangi.d38f1b9a/badges
 Benjamin,,Mwangi,1,/users/benjamin-mwangi.2db19862/badges
-Collins,,Mwangi,0,/users/collins-mwangi.1da0dc3d/badges
+Collins,,Mwangi,2,/users/collins-mwangi.1da0dc3d/badges
 Brayan,,Mwanyumba,1,/users/brayan-mwanyumba/badges
 Gabriel,,Mwashighadi,1,/users/gabriel-mwashighadi.554ac7ef/badges
 Brenda,,Mwaura,1,/users/wairimu-mwaura/badges
@@ -77,14 +77,14 @@ Joseph,,Ngatia,1,/users/joseph-ngatia.94ada37a/badges
 Brian,,Ngetich,1,/users/brian-ngetich.4095692c/badges
 Dennis,,Njenga,1,/users/dennis-njenga.cd5c5909/badges
 Joan,,Njeri,1,/users/joan-njeri/badges
-Stella Nicole,,Nwae,0,/users/stella-nicole-nwae/badges
-Fred,,Nyakagwa,0,/users/fred-nyakagwa/badges
+Stella Nicole,,Nwae,2,/users/stella-nicole-nwae/badges
+Fred,,Nyakagwa,4,/users/fred-nyakagwa/badges
 Evans,,Nyamu,1,/users/evans-nyamu/badges
 Lewis,,Nyombyekothe,1,/users/lewis-nyombyekothe/badges
 Douglas,,Obara,1,/users/douglas-obara/badges
 Adolf,,Odhiambo,1,/users/adolf-odhiambo/badges
 Kelvin,,Okumu,1,/users/kelvin-okumu.2a39b897/badges
-Joseph,,Olale,0,/users/joseph-olale.78f7cc67/badges
+Joseph,,Olale,2,/users/joseph-olale.78f7cc67/badges
 Clintone,,Omondi,1,/users/clintone-omondi/badges
 Billy,,Onoka,1,/users/onoka/badges
 Fredrick,,Onyango,1,/users/fredrick-onyango.80747706/badges
@@ -92,17 +92,17 @@ Glenn,,Onyango,1,/users/glenn-onyango/badges
 Patrick,,Orangi,1,/users/patrick-orangi/badges
 Ilyas,,Osman,1,/users/ilyas-osman/badges
 Leona,,Otindo,1,/users/leona-otindo/badges
-Clifford,Ochieng,Ouma,0,/users/clifford-ouma/badges
+Clifford,Ochieng,Ouma,3,/users/clifford-ouma/badges
 Craig,Carlos,Ouma,1,/users/craig-carlos/badges
 Kipkemei,,Raymond,1,/users/kipkemei-raymond/badges
 Alex,,Raza,1,/users/alexraza/badges
 Anastasia,,Rotich,1,/users/anastasia-rotich.3785f811/badges
 Winnie,,Rotich,1,/users/winnie-rotich/badges
-LEWIS,,SAWE,0,/users/lewisawe/badges
+LEWIS,,SAWE,3,/users/lewisawe/badges
 Tracy,,Sambu,1,/users/tracy-sambu/badges
 Ambrose Matata,,Sammy,1,/users/ambrose-matata-sammy/badges
 Henry,,Saya,1,/users/henry-saya/badges
-Belvah,,Shanyisa,0,/users/belvah-shanyisa.1c1e7e9a/badges
+Belvah,,Shanyisa,2,/users/belvah-shanyisa.1c1e7e9a/badges
 Peter,,Shitote,1,/users/peter-shitote/badges
 Lucky,,Sikolia,1,/users/lucky-sikolia/badges
 Brian,,Silah,1,/users/brian-silah.1af0bb06/badges
@@ -110,7 +110,7 @@ Lydia,,Taban,1,/users/lydia-taban/badges
 Francis,,Thuo,1,/users/thuo-francis/badges
 Naijeria,,Toweett,1,/users/naijeria-toweett.090e5261/badges
 Naijeria,,Toweett,1,/users/naijeria-toweett.6d97bf41/badges
-Kevin,,Tuei,0,/users/kevintuei/badges
+Kevin,,Tuei,2,/users/kevintuei/badges
 David,,Wachira,1,/users/david-wachira.be1fd9c1/badges
 Martha,,Wachira,1,/users/martha-wachira/badges
 Samuel,,Wachira,1,/users/samuel-wachira.ba9f0060/badges
@@ -119,7 +119,7 @@ Silvia,,Wachira,1,/users/silvia-wachira/badges
 Rita,,Waikuru,1,/users/rita-waikuru/badges
 Wesley,,Waka,1,/users/wizardkind/badges
 Ivy,,Walobwa,1,/users/ivy-walobwa/badges
-Paul,,Wechuli,0,/users/paul-wechuli/badges
+Paul,,Wechuli,4,/users/paul-wechuli/badges
 Clement,,Wekesa,1,/users/clement-wekesa/badges
 Gilbert,,Winja,1,/users/hawkinswinja/badges
 jonah,,ashuma,1,/users/jonah-ashuma/badges

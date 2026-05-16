@@ -1,27 +1,27 @@
 first_name,middle_name,last_name,badge_count,profile_url
 CLORES,,ALNICK B.,1,/users/clores-alnick-b/badges
-ARSHLEY,,ARRABIS,0,/users/arshley-arrabis/badges
-James,,Abrenica,0,/users/james-abrenica.61e8490c/badges
-Rolando John,,Aca-ac,0,/users/rolando-john-aca-ac.c3616eb4/badges
+ARSHLEY,,ARRABIS,1,/users/arshley-arrabis/badges
+James,,Abrenica,1,/users/james-abrenica.61e8490c/badges
+Rolando John,,Aca-ac,1,/users/rolando-john-aca-ac.c3616eb4/badges
 Jeru Ezra,,Agnas,1,/users/j-ezra/badges
 Manuel,Maldo,Albuera Jr.,0,/users/manuel-maldo-albuera-jr/badges
-Renz Jonathan,,Alib,0,/users/renz-jonathan-alib.4a9e326b/badges
-Dulay,,Allen,0,/users/dulay-allen/badges
-Kevin,,Almirante,1,/users/kevin-almirante/badges
+Renz Jonathan,,Alib,1,/users/renz-jonathan-alib.4a9e326b/badges
+Dulay,,Allen,1,/users/dulay-allen/badges
+Kevin,,Almirante,0,/users/kevin-almirante/badges
 Harold,,Amad,1,/users/harold-amad/badges
-Robert Andrew,,Andasan,0,/users/robert-andrew-andasan/badges
+Robert Andrew,,Andasan,1,/users/robert-andrew-andasan/badges
 Arren,,Anives,0,/users/arren-anives/badges
-Hero,,Aquino,0,/users/hero-aquino/badges
-Kurt Rainier,,Aquino,0,/users/kurt-rainier-aquino/badges
-Jeremieh,,Arcangel,0,/users/jeremieh-arcangel/badges
+Hero,,Aquino,1,/users/hero-aquino/badges
+Kurt Rainier,,Aquino,1,/users/kurt-rainier-aquino/badges
+Jeremieh,,Arcangel,1,/users/jeremieh-arcangel/badges
 Angelo Miguel,,Arcilla,0,/users/angelo-miguel-arcilla/badges
 Divino Franco,,Aurellano,2,/users/divino-franco-aurellano/badges
-Herald Carl,,Avila,1,/users/herald-carl-avila.1b4f05d8/badges
-ALEXANDER IAN SERRANO,,BASAL,0,/users/alexander-ian-serrano-basal/badges
+Herald Carl,,Avila,2,/users/herald-carl-avila.1b4f05d8/badges
+ALEXANDER IAN SERRANO,,BASAL,1,/users/alexander-ian-serrano-basal/badges
 DEZZA ARIANNE,,BELTRAN,1,/users/dezza-arianne-beltran/badges
 HANZ ANGELO,,BERNABE,1,/users/hanz-angelo-bernabe/badges
 JOHN BENEDICT,,BONGCAC,1,/users/john-benedict-bongcac/badges
-Jose Louise,,Badong,0,/users/jose-louise-badong/badges
+Jose Louise,,Badong,2,/users/jose-louise-badong/badges
 Neilvert,,Baguna,1,/users/neilvert-baguna/badges
 Russell,,Balahadia,1,/users/russell-balahadia/badges
 Kyle Ashleigh,,Baldoza,1,/users/kyle-ashleigh-baldoza/badges
@@ -35,7 +35,7 @@ Marvin,,Bulahan,1,/users/marvin-bulahan/badges
 HERO,,CALOZA,1,/users/hero-caloza/badges
 JAN MEJER,,CASAN,1,/users/jan-mejer-casan/badges
 Julius Cesar,,Ca-aya,1,/users/julius-cesar-ca-aya.efc31dd3/badges
-Elmor,,Cabalfin,0,/users/elmor-cabalfin/badges
+Elmor,,Cabalfin,2,/users/elmor-cabalfin/badges
 Matthew,,Cabigas,1,/users/matthew-cabigas.f9473271/badges
 Jan Shello,,Cabilin,1,/users/jan-shello-cabilin/badges
 Ron Vincent,,Cada,1,/users/ron-vincent-cada.16b3d2a8/badges
@@ -50,7 +50,7 @@ David,,Cativo,1,/users/david-cativo/badges
 Vince,,Charles,1,/users/vince-charles.345fbd1c/badges
 William Eduard,,Chua,1,/users/william-eduard-chua/badges
 Ron Oliver,Gayatao,Clarin,1,/users/ronoliverclarin/badges
-Alpha Romer,,Coma,0,/users/alpharomercoma/badges
+Alpha Romer,,Coma,5,/users/alpharomercoma/badges
 Timothy James,Torres,Concepcion,1,/users/timothy-james-concepcion/badges
 Roy Miguel,,Crucillo,1,/users/roy-miguel-crucillo/badges
 Alyssa Nicole,,Cruz,1,/users/alyssa-nicole-cruz/badges
@@ -59,12 +59,12 @@ Raniella,,Cuevas,1,/users/raniella-cuevas/badges
 ANDRELOU,,DEROD,1,/users/andrelou-derod/badges
 Jonnel,,Dagohoy,1,/users/jonnel-dagohoy/badges
 Mark Lester,,Dampios,1,/users/mark-lester-orillo-dampios/badges
-John Julius,,David,0,/users/john-julius-david/badges
+John Julius,,David,2,/users/john-julius-david/badges
 Sandi,,De La Vega,1,/users/sandi-de-la-vega/badges
 Ennis Rommel,,Del Rosario,1,/users/ennis-rommel-del-rosario/badges
 Jeffrey,,Del Socorro,1,/users/jeffrey-del-socorro/badges
 Eunil Carl,,Dela Cruz,1,/users/eunil-carl-dela-cruz.d7576c5c/badges
-Jerrico Jr,Tan,Dela Cruz,0,/users/jerrico-jr-dela-cruz/badges
+Jerrico Jr,Tan,Dela Cruz,2,/users/jerrico-jr-dela-cruz/badges
 Dennis,,Delamida,1,/users/dennis-delamida/badges
 John Christian,,Diamante,1,/users/jc-diamante/badges
 Michael Lance,M.,Domagas,1,/users/pinoy/badges
@@ -88,7 +88,7 @@ KIMBERLY,,HITUNGO,1,/users/kimberly-hitungo/badges
 Paul Owen,,Havana,1,/users/paul-owen-havana/badges
 Brent,,Ibañez,1,/users/brent-ibanez/badges
 Jerome Christian,,Ibon,1,/users/jeysibn/badges
-Ismael,,Ibuan,0,/users/ismael-ibuan/badges
+Ismael,,Ibuan,2,/users/ismael-ibuan/badges
 Micaella Fei,,Illescas,1,/users/micaella-fei-illescas.45777e3c/badges
 Isaiah,,Inocentes,1,/users/isaiah-inocentes/badges
 Chris Andrei,,Irag,1,/users/chris-andrei-irag/badges
@@ -153,19 +153,19 @@ Beia Ann,,Rodriguez,1,/users/beia-ann-rodriguez/badges
 Reever,,Rosales,1,/users/reever-rosales/badges
 Jon Ken,,Rosario,1,/users/jon-ken-rosario/badges
 Ralph Louie,,Saguiafin,1,/users/skkcyb3r/badges
-Iman,,Santamaria,0,/users/iman-santamaria/badges
+Iman,,Santamaria,3,/users/iman-santamaria/badges
 Christian Mark,,Santos,1,/users/christian-mark-santos/badges
 Gino Arwin,,Santos,1,/users/ggsantos/badges
 Gladys,,Santos,1,/users/gladys-santos.ff5c4f46/badges
 Jessie Chris,,Santos,1,/users/jessie-chris-santos/badges
-Lawrence,Tamayo,Santos,0,/users/lawrence-santos.81f7e2bb/badges
+Lawrence,Tamayo,Santos,2,/users/lawrence-santos.81f7e2bb/badges
 Patrick Zane,,Sarabia,1,/users/patrick-zane-sarabia/badges
 Jeffrey,,Se,1,/users/jeffrey-se.fc912072/badges
 Bryon Kurt,,Segunto,1,/users/bryon-kurt-segunto/badges
 Sachiko,,Shimada,1,/users/sbshimada10/badges
 Jaye Ralph,,Soller,1,/users/jaye-ralph-soller/badges
 Mark David,,Sun,1,/users/mark-david-sun/badges
-Michael Josias,Daligdig,Tabada,0,/users/jmichael/badges
+Michael Josias,Daligdig,Tabada,2,/users/jmichael/badges
 Allen James,,Tagayun,1,/users/allen-james-tagayun/badges
 Alianna,,Tan,1,/users/alianna-tan/badges
 Allan Robert,,Tan,1,/users/allan-robert-tan/badges
@@ -175,3 +175,9 @@ Julius Ceasar,,Toñacao,1,/users/julius-ceasar-tonacao/badges
 Benedict Adam,,Tumaning,1,/users/benedict-adam-tumaning/badges
 Aivan Carlos,,Tuquero,1,/users/aivan-carlos-tuquero/badges
 Michael James,,Urian,1,/users/michael-james-urian/badges
+LORENZO,,VASQUEZ,1,/users/lorenzo-vasquez.e1c2a8e5/badges
+Prince Carl,Salonga,Velasco,1,/users/prynstag/badges
+Christine Joy,,Villaruel,1,/users/christine-joy-villaruel/badges
+Barron Joshua,,Volante,1,/users/volantebjb/badges
+Lloyd Harlow,,Yap,2,/users/lloydharlowyap/badges
+Angelo Miguel,,de Padua,1,/users/angelo-miguel-de-padua/badges

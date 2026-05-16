@@ -1,29 +1,29 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Ticusan,,Adrian Vladut,1,/users/ticusan-adrian-vladut/badges
-Constantin,,Alexa,0,/users/constantin-alexa/badges
-Adrian,,Anton,0,/users/adrian-anton.b6738326/badges
-Catalin-Alexandru,,Axinte,0,/users/catalin-alexandru-axinte.6528481e/badges
+Constantin,,Alexa,1,/users/constantin-alexa/badges
+Adrian,,Anton,1,/users/adrian-anton.b6738326/badges
+Catalin-Alexandru,,Axinte,1,/users/catalin-alexandru-axinte.6528481e/badges
 Radu,,Balaita,1,/users/radu-balaita/badges
 Veaceslav,,Barba,1,/users/veaceslav-barba.4682c7cb/badges
 Elena,,Bizoi,1,/users/elena-bizoi/badges
-Danut-Nicolae,,Blaj-Brezeanu,0,/users/danut-nicolae-blaj-brezeanu/badges
-George-Alexandru,,Bogdan,0,/users/george-alexandru-bogdan/badges
-Sebastian,,Boldi,0,/users/sebastian-boldi/badges
-Ovidiu,,Borlean,0,/users/ovidiu-borlean/badges
-Andrei,,Bortas,0,/users/andrei-catalin-bortas/badges
+Danut-Nicolae,,Blaj-Brezeanu,1,/users/danut-nicolae-blaj-brezeanu/badges
+George-Alexandru,,Bogdan,1,/users/george-alexandru-bogdan/badges
+Sebastian,,Boldi,1,/users/sebastian-boldi/badges
+Ovidiu,,Borlean,1,/users/ovidiu-borlean/badges
+Andrei,,Bortas,1,/users/andrei-catalin-bortas/badges
 Rares,,Bozoanca,1,/users/rares-bozoanca.8c62bb4e/badges
-Bogdan-Adrian,,Burciu,0,/users/bogdan-adrian-burciu/badges
+Bogdan-Adrian,,Burciu,1,/users/bogdan-adrian-burciu/badges
 Janov,,Byrnisson,1,/users/janov-byrnisson/badges
-Nicolae-Loredan,,Calimanu,0,/users/nicolae-loredan-calimanu/badges
-Marius,,Cornea,0,/users/marius-cornea.3ac7be21/badges
-Fabian,,Cretu,0,/users/fabian-cretu/badges
-CRETU,,Daniela,0,/users/cretu-daniela/badges
-Stan,,Darius,0,/users/stan-darius/badges
-Robert Alexandru,,Dobre,0,/users/robert-alexandru-dobre/badges
-Valeriu,,Dobrescu,0,/users/valeriu-dobrescu/badges
-David Andrei,,Dumbrava,0,/users/david-andrei-dumbrava/badges
+Nicolae-Loredan,,Calimanu,1,/users/nicolae-loredan-calimanu/badges
+Marius,,Cornea,1,/users/marius-cornea.3ac7be21/badges
+Fabian,,Cretu,1,/users/fabian-cretu/badges
+CRETU,,Daniela,1,/users/cretu-daniela/badges
+Stan,,Darius,1,/users/stan-darius/badges
+Robert Alexandru,,Dobre,1,/users/robert-alexandru-dobre/badges
+Valeriu,,Dobrescu,1,/users/valeriu-dobrescu/badges
+David Andrei,,Dumbrava,1,/users/david-andrei-dumbrava/badges
 Elena-Valentina,,Dumitrascu,1,/users/elena-valentina-dumitrascu/badges
-Mădălin-Mircea,,Filip,0,/users/madalin-mircea-filip/badges
+Mădălin-Mircea,,Filip,1,/users/madalin-mircea-filip/badges
 Radu,,Filip,1,/users/radu-filip/badges
 Mihai,,Florea,1,/users/mihai-florea.ba197b99/badges
 Orlando-Catalin,,Fulea,1,/users/orlando-catalin-fulea/badges
@@ -48,7 +48,7 @@ Daniela,,Mirita,1,/users/daniela-mirita/badges
 Octavian,,Neagoe,1,/users/octavian-neagoe/badges
 Ionela,,Nicula,1,/users/ionela-nicula.8258cae9/badges
 Stefan Alin,,Pahontu,1,/users/stefan-alin-pahontu/badges
-Sorin,,Pasa,0,/users/sorin-pasa/badges
+Sorin,,Pasa,2,/users/sorin-pasa/badges
 Denis,,Pintilie,1,/users/denis-pintilie/badges
 Alin-Paul,,Popa,1,/users/alin-paul-popa/badges
 Matei,,Popa,1,/users/matei-popa.2b969b60/badges
@@ -64,7 +64,7 @@ Răzvan-Andrei,,Timofte,1,/users/razvan-andrei-timofte/badges
 Bogdan,,Toma,1,/users/bogtom/badges
 Cristina,,Triff,1,/users/cristina-triff/badges
 Victor,,Trohin,1,/users/victor-trohin/badges
-Maria,,Uta,0,/users/maria-uta/badges
+Maria,,Uta,3,/users/maria-uta/badges
 Ovidiu,,Vatamanu,1,/users/ovidiu-vatamanu/badges
 Tudor,,Vlad,1,/users/tudor-vlad.4c833e8b/badges
 andrei-sebastian,,melinte,2,/users/andrei-sebastian-melinte/badges
