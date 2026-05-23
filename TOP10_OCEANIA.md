@@ -1,18 +1,17 @@
 # 🌊 TOP 10 GitHub Certifications - Oceania
 
-> Last updated: May 22, 2026 at 03:31 UTC
+> Last updated: May 23, 2026 at 02:52 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
-| 🥇 #1 | [Marco Celon](https://www.credly.com/users/marco-celon.53bc8019/badges) | 13 | GitHub | Australia |
-| 🥈 #2 | [Ben Hollamby](https://www.credly.com/users/ben-hollamby/badges) | 5 |  | New Zealand |
+| 🥇 #1 | [Ben Hollamby](https://www.credly.com/users/ben-hollamby/badges) | 5 |  | New Zealand |
 |  | [Hao Chen](https://www.credly.com/users/hao-chen.c4b252a3/badges) | 5 |  | New Zealand |
 |  | [Jerome Brown](https://www.credly.com/users/owretch/badges) | 5 | Mantel Group | New Zealand |
 |  | [Maxim Mazurok](https://www.credly.com/users/maxim-mazurok/badges) | 5 | WiseTech Global | Australia |
 |  | [Sebastian Peter](https://www.credly.com/users/sebastian-peter/badges) | 5 | Tata Consultancy Services | Australia |
-| #7 | [Andre Kolodochka](https://www.credly.com/users/andre-kolodochka/badges) | 4 |  | Australia |
+| #6 | [Andre Kolodochka](https://www.credly.com/users/andre-kolodochka/badges) | 4 |  | Australia |
 |  | [Jesse Loudon](https://www.credly.com/users/jesseloudon/badges) | 4 |  | Australia |
 |  | [Jiayi Qin](https://www.credly.com/users/jiayi-qin.b8b33e2c/badges) | 4 |  | Australia |
 |  | [Jolan Hu](https://www.credly.com/users/jolan-hu/badges) | 4 |  | Australia |
@@ -30,10 +29,10 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 582
-- **Total Badges Earned**: 794
-- **Average Badges per User**: 1.36
-- **Highest Badge Count**: 13
+- **Total Certified Users**: 580
+- **Total Badges Earned**: 779
+- **Average Badges per User**: 1.34
+- **Highest Badge Count**: 5
 
 ---
 
