@@ -1,5 +1,5 @@
 first_name,middle_name,last_name,badge_count,profile_url
-Ilyas,,ABDELLAOUI,0,/users/ilyas-abdellaoui/badges
+Ilyas,,ABDELLAOUI,1,/users/ilyas-abdellaoui/badges
 BADREDDINE,,AIT EL KHADIR,1,/users/badreddine-ait-el-khadir.9b90a27f/badges
 Denis Degninou Yaovi,,AKPAGNONITE,2,/users/denis-akpagnonite/badges
 Mohamed,,AL AMGHARI,1,/users/mohamed-al-amghari.5532a5a8/badges
@@ -11,7 +11,7 @@ Ismail,,Ait zaid,1,/users/ismail-ait-zaid.a9e1afd9/badges
 Imad Eddine,,Assouli,1,/users/imad-eddine-assouli/badges
 Mounssif,,BOUHLAOUI,2,/users/mounssif-bouhlaoui/badges
 Ilham,,Belhaj,1,/users/ilham-belhaj.5dd46688/badges
-Mustapha,,Belmokhtar,0,/users/mustapga-belmokhtar/badges
+Mustapha,,Belmokhtar,2,/users/mustapga-belmokhtar/badges
 Meriam,,Benidir,1,/users/meriam-benidir.29142073/badges
 Yassine,,Benmansour,1,/users/yassine-benmansour/badges
 Ahmed,,Bentabet,1,/users/ahmed-bentabet/badges
@@ -46,7 +46,7 @@ Biedan Gregoire Louis Stephane,,Manlango,1,/users/biedan-gregoire-louis-stephane
 Achraf,,Mataich,1,/users/achraf-mataich.72730d7b/badges
 Yassine,,Merouane,1,/users/yassine-merouane/badges
 Fouzari,,Mohammed,1,/users/fouzari-mohammed/badges
-El Mehdi,,Moustahib,3,/users/elmehdimst/badges
+El Mehdi,,Moustahib,0,/users/elmehdimst/badges
 Said,,NAJIM,1,/users/said-najim/badges
 Mohamed Yassine,,Nabat,1,/users/mohamed-yassine-nabat/badges
 Reda,,Nefzi,1,/users/redanefzi/badges
