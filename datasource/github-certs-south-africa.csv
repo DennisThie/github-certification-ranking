@@ -2,7 +2,7 @@ first_name,middle_name,last_name,badge_count,profile_url
 Corné,,Ackerman,2,/users/corne-ackerman.c1e57f1d/badges
 Tyron,,Anderson,1,/users/tyron-anderson/badges
 Jonathan,,Baloyi,1,/users/jonathan-baloyi/badges
-Aboobaker,,Banoo,1,/users/aboobaker-banoo/badges
+Aboobaker,,Banoo,0,/users/aboobaker-banoo/badges
 Richard,,Basson,1,/users/richard-basson/badges
 Daniel,,Benjamin,1,/users/daniel-benjamin.709d6db0/badges
 Carike,,Blignaut-Staden,4,/users/carike/badges
@@ -101,7 +101,7 @@ Jason,,Pienaar,1,/users/jason-pienaar.9a88eafc/badges
 Koketso,,Ratlou,1,/users/koketso-ratlou/badges
 Weylin,,Renison,1,/users/weylin-renison/badges
 AJ,,Roos,1,/users/aj-roos/badges
-Ahmed,,Salijee,1,/users/ahmed-salijee/badges
+Ahmed,,Salijee,0,/users/ahmed-salijee/badges
 Nonhlanhla,,Santos,1,/users/nonhlanhla-santos/badges
 Keolebogile,,Segoneco,1,/users/keolebogile-segoneco/badges
 Thakgalo,,Sehlola,1,/users/thakgalo-sehlola.c1b1514a/badges
