@@ -1,6 +1,6 @@
 # 🇧🇷 TOP 10 GitHub Certifications - Brazil
 
-> Last updated: June 05, 2026 at 03:38 UTC
+> Last updated: June 06, 2026 at 02:58 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -17,15 +17,16 @@
 |  | [Luana Corrêa Vieira](https://www.credly.com/users/luana-vieira.36aca490/badges) | 14 | Avanade | Brazil |
 | #10 | [Caio Vianna Vieira](https://www.credly.com/users/caio-vianna.b6440384/badges) | 13 | Avanade | Brazil |
 |  | [Clayton Rodrigues Souza](https://www.credly.com/users/clayton-souza/badges) | 13 | Avanade | Brazil |
-|  | [Lucas Ludicsa](https://www.credly.com/users/lucas-ludicsa/badges) | 13 | ilegra | Brazil |
+|  | [Daniel Alonso Oliveira Soares](https://www.credly.com/users/dalonsw/badges) | 13 | ilegra | Brazil |
+|  | [Lucas Ludicsa](https://www.credly.com/users/lucas-ludicsa/badges) | 13 |  | Brazil |
 
 ---
 
 ## 📊 Statistics
 
 - **Total Certified Users**: 1,525
-- **Total Badges Earned**: 2,016
-- **Average Badges per User**: 1.32
+- **Total Badges Earned**: 2,030
+- **Average Badges per User**: 1.33
 - **Highest Badge Count**: 19
 
 ---
