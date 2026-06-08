@@ -1,5 +1,5 @@
 first_name,middle_name,last_name,badge_count,profile_url
-JUAN JOSÉ,,ALMENGOR TIZOL,1,/users/juan-jose-almengor-tizol/badges
+JUAN JOSÉ,,ALMENGOR TIZOL,0,/users/juan-jose-almengor-tizol/badges
 Pablo,André,Alvarado,1,/users/pablo.alvarado/badges
 Ismar André,,Arriaga,1,/users/ismar-andre-arriaga/badges
 Jorge,,Carrillo,1,/users/jorge-carrillo.e2daf2de/badges
@@ -11,10 +11,10 @@ Ali,,Daryousef,1,/users/ali-daryousef/badges
 Jonathan,,Donis,1,/users/jonathan-donis/badges
 Juan Pablo,,Estrada Lucero,1,/users/juan-pablo-estrada-lucero/badges
 Alexis Renato,,Estrada Martínez,1,/users/alexis-renato-estrada-martinez/badges
-Hugo,,Estrada S.,5,/users/hugoestradas/badges
+Hugo,,Estrada S.,0,/users/hugoestradas/badges
 Luis Enrique,,Farfán Prado,1,/users/luis-enrique-farfan-prado/badges
 Fredy,,Flores,2,/users/fredy-flores.576fca8b/badges
-Pablo,David,Flores,1,/users/pablo-flores.729eed63/badges
+Pablo,David,Flores,0,/users/pablo-flores.729eed63/badges
 Max,,Florian,1,/users/max-florian/badges
 José,,Furlán,1,/users/jose-furlan/badges
 Juan Carlos,,Garcia,1,/users/juan-carlos-garcia.585cfc79/badges
