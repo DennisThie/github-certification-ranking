@@ -1,6 +1,6 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Olanrewaju,,Adetola,1,/users/olanrewaju-adetola.702d78dd/badges
-Robin,,Aerts,0,/users/robin-aerts/badges
+Robin,,Aerts,2,/users/robin-aerts/badges
 Mouhsine,,Ayi,1,/users/mouhsine-ayi/badges
 Bram,,Beirens,1,/users/bram-beirens/badges
 Ilias,,Benkhaled,1,/users/ilias-benkhaled/badges
@@ -16,7 +16,7 @@ Wesley,,Cabus,1,/users/wesley-cabus.3a424248/badges
 Maxim,,Caers,1,/users/maxim-caers/badges
 Eugeniu,,Carausu,1,/users/eugeniu-carausu.841ad99c/badges
 Wout,,Cardoen,2,/users/wout-cardoen/badges
-Adrien,,Clerbois,0,/users/adrien-clerbois/badges
+Adrien,,Clerbois,2,/users/adrien-clerbois/badges
 Jasper,,Cottenie,1,/users/jasper-cottenie/badges
 Kelly,,Crabbé,2,/users/kpj-crabbe/badges
 Lars,,Danau,1,/users/lars-danau/badges
@@ -39,8 +39,8 @@ Jonathan,,Hiben,3,/users/jonathanhiben/badges
 Joey,,Jansegers,1,/users/joey-jansegers/badges
 Michael,,Kelarou,1,/users/michael-kelarou/badges
 Robin,,Kessels,1,/users/robin-kessels/badges
-Rudi,,Larno,3,/users/rudi-larno.a969962f/badges
-Julien,,Lebutte,12,/users/julienlebutte/badges
+Rudi,,Larno,4,/users/rudi-larno.a969962f/badges
+Julien,,Lebutte,13,/users/julienlebutte/badges
 Ward,,Lostrie,3,/users/ward-lostrie/badges
 Dave,,Lux,1,/users/dave-lux/badges
 Koen,,Luyten,1,/users/koen-luyten.8eb6ee2f/badges
@@ -72,9 +72,9 @@ Kristof,,Van Hees,2,/users/kristof-van-hees/badges
 Michiel,,Van Herreweghe,1,/users/michiel-van-herreweghe/badges
 Andrew,,Van Hoogten,4,/users/andrew-van-hoogten/badges
 Thomas,,Van Rampelberg,3,/users/thomas-van-rampelberg.b896b559/badges
-Yves,,Van Stappen,5,/users/yves-van-stappen/badges
+Yves,,Van Stappen,0,/users/yves-van-stappen/badges
 Bastiaan,,Van den Bussche,1,/users/bastiaan-van-den-bussche/badges
-Mike,,Van den Heuvel,4,/users/mike-van-den-heuvel.daad68c8/badges
+Mike,,Van den Heuvel,0,/users/mike-van-den-heuvel.daad68c8/badges
 Frederiek,,Vandepitte,2,/users/frederiek-vandepitte/badges
 Michaël,,Vanderheyden,2,/users/th3s4mur41/badges
 Tibo,,Vanheule,1,/users/tibo-vanheule/badges

@@ -1,8 +1,8 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Faiso,,Abdirisak,1,/users/faiso-abdirisak/badges
 Jully,,Achenchi,1,/users/jully-achenchi/badges
-Ahmed Najash,,Ahmed,1,/users/ahmed-najash-ahmed/badges
-Christopher,,Ambala,1,/users/o-c.b3f241e3/badges
+Ahmed Najash,,Ahmed,0,/users/ahmed-najash-ahmed/badges
+Christopher,,Ambala,0,/users/o-c.b3f241e3/badges
 Jeffarson,,Amenya,1,/users/machoga-jeffarson/badges
 Derrick,,Ampire,1,/users/derrick-ampire/badges
 Samwel,,Benard,1,/users/samwel-benard/badges
@@ -110,7 +110,7 @@ Lydia,,Taban,1,/users/lydia-taban/badges
 Francis,,Thuo,1,/users/thuo-francis/badges
 Naijeria,,Toweett,1,/users/naijeria-toweett.090e5261/badges
 Naijeria,,Toweett,1,/users/naijeria-toweett.6d97bf41/badges
-Kevin,,Tuei,0,/users/kevintuei/badges
+Kevin,,Tuei,2,/users/kevintuei/badges
 David,,Wachira,1,/users/david-wachira.be1fd9c1/badges
 Martha,,Wachira,1,/users/martha-wachira/badges
 Samuel,,Wachira,1,/users/samuel-wachira.ba9f0060/badges
@@ -119,7 +119,7 @@ Silvia,,Wachira,1,/users/silvia-wachira/badges
 Rita,,Waikuru,1,/users/rita-waikuru/badges
 Wesley,,Waka,1,/users/wizardkind/badges
 Ivy,,Walobwa,1,/users/ivy-walobwa/badges
-Paul,,Wechuli,0,/users/paul-wechuli/badges
+Paul,,Wechuli,4,/users/paul-wechuli/badges
 Clement,,Wekesa,1,/users/clement-wekesa/badges
 Gilbert,,Winja,1,/users/hawkinswinja/badges
 jonah,,ashuma,1,/users/jonah-ashuma/badges
