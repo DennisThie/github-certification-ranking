@@ -1,7 +1,7 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Galin,,Angelov,1,/users/galin-angelov.e4b77005/badges
 Atanas,,Atanasov,3,/users/atanas-atanasov.1db0edf1/badges
-Tolga,,Beyzatov,1,/users/tolga-beyzatov/badges
+Tolga,,Beyzatov,0,/users/tolga-beyzatov/badges
 Ross,,Borissov,4,/users/ross-borissov/badges
 Radi,,Bozhilov,2,/users/radi-bozhilov/badges
 Svetoslav,,Busarov,1,/users/svetoslav-busarov/badges
@@ -15,7 +15,7 @@ Vladimir,,Gritsaev,1,/users/vladimir-gritsaev.887f92de/badges
 Martin,,Hristov,1,/users/martin-hristov.9405c2b2/badges
 IVAN,,IVANOV,1,/users/ivan-ivanov.a25c57e8/badges
 Hristo,,Iankov,1,/users/hristo-iankov.cc49872d/badges
-Tsvetomir,,Iliev,1,/users/tsvetomir-iliev/badges
+Tsvetomir,,Iliev,0,/users/tsvetomir-iliev/badges
 Aleksandar,,Ivanov,1,/users/aleksandar-ivanov.26443e35/badges
 Nikola,,Ivanov,1,/users/nikolaivanovj/badges
 Hristo,,Karatonev,1,/users/hristo-karatonev/badges
