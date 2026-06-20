@@ -1,6 +1,6 @@
 # 🌎 TOP 10 GitHub Certifications - Americas
 
-> Last updated: June 19, 2026 at 04:07 UTC
+> Last updated: June 20, 2026 at 03:30 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -22,8 +22,8 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 6,869
-- **Total Badges Earned**: 9,180
+- **Total Certified Users**: 6,873
+- **Total Badges Earned**: 9,189
 - **Average Badges per User**: 1.34
 - **Highest Badge Count**: 19
 
