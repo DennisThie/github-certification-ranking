@@ -1,6 +1,6 @@
 # 🌍 TOP 10 GitHub Certifications - Global
 
-> Last updated: July 08, 2026 at 02:32 UTC
+> Last updated: July 09, 2026 at 02:48 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -16,14 +16,13 @@
 |  | [Barnes Chism](https://www.credly.com/users/barnes-chism/badges) | 19 | Xebia | United States |
 |  | [Renan Evangelista Pereira](https://www.credly.com/users/renan-evangelista-pereira/badges) | 19 | Avanade | Brazil |
 |  | [Sujith Quintelier](https://www.credly.com/users/sujith/badges) | 19 | Microsoft | Belgium |
-|  | [Vincent Marchal](https://www.credly.com/users/vincent-marchal.87a05753/badges) | 19 | Avanade | France |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 24,959
-- **Total Badges Earned**: 32,010
+- **Total Certified Users**: 24,968
+- **Total Badges Earned**: 32,011
 - **Average Badges per User**: 1.28
 - **Highest Badge Count**: 20
 
