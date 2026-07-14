@@ -1,6 +1,6 @@
 # 🌊 TOP 10 GitHub Certifications - Oceania
 
-> Last updated: July 13, 2026 at 02:37 UTC
+> Last updated: July 14, 2026 at 02:16 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -30,8 +30,8 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 584
-- **Total Badges Earned**: 796
+- **Total Certified Users**: 585
+- **Total Badges Earned**: 797
 - **Average Badges per User**: 1.36
 - **Highest Badge Count**: 14
 
