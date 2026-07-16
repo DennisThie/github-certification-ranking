@@ -1,6 +1,6 @@
 # 🌏 TOP 10 GitHub Certifications - Asia
 
-> Last updated: July 15, 2026 at 02:15 UTC
+> Last updated: July 16, 2026 at 02:28 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -10,10 +10,10 @@
 | 🥈 #2 | [Rajesh C N](https://www.credly.com/users/rajesh-c-n/badges) | 18 | Xebia | India |
 |  | [Shankaragoud Biradar](https://www.credly.com/users/shankaragoud-biradar.23a05304/badges) | 18 | Canarys Automations Limited | India |
 |  | [Vinay C](https://www.credly.com/users/vinay-c.f7b7d8ef/badges) | 18 | Canarys Automations Limited | India |
-| #5 | [Naveen Kunder](https://www.credly.com/users/naveenkunder/badges) | 17 | Canarys Automations Limited | India |
+| #5 | [Dasari Ramesh Kumar](https://www.credly.com/users/ramesh.dasari/badges) | 17 | Xebia | India |
+|  | [Naveen Kunder](https://www.credly.com/users/naveenkunder/badges) | 17 | Canarys Automations Limited | India |
 |  | [Niranjana K](https://www.credly.com/users/niranjana-koni/badges) | 17 | Canarys Automations Limited | India |
 |  | [Sandeep Doddamani](https://www.credly.com/users/sandeep-doddamani/badges) | 17 | Canarys Automations Limited | India |
-| #8 | [Dasari Ramesh Kumar](https://www.credly.com/users/ramesh.dasari/badges) | 16 | Xebia | India |
 | #9 | [Adithya MS](https://www.credly.com/users/adithya-ms.f90708a6/badges) | 15 | Canarys Automations Limited | India |
 |  | [Mihir Kulkarni](https://www.credly.com/users/mihir-kulkarni.00d25bea/badges) | 15 | XPT Software | India |
 |  | [Narasimha Kudva](https://www.credly.com/users/narasimha-kudva.d13f4b52/badges) | 15 | Xebia | India |
@@ -24,8 +24,8 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 12,187
-- **Total Badges Earned**: 14,603
+- **Total Certified Users**: 12,179
+- **Total Badges Earned**: 14,591
 - **Average Badges per User**: 1.20
 - **Highest Badge Count**: 19
 
