@@ -1,13 +1,13 @@
 # 🇧🇷 TOP 10 GitHub Certifications - Brazil
 
-> Last updated: July 18, 2026 at 02:14 UTC
+> Last updated: July 19, 2026 at 02:31 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
-| 🥇 #1 | [Andre Dias](https://www.credly.com/users/andredias/badges) | 20 | Avanade | Brazil |
-|  | [Felipe Augusto](https://www.credly.com/users/felipementel/badges) | 20 | Avanade | Brazil |
+| 🥇 #1 | [Felipe Augusto](https://www.credly.com/users/felipementel/badges) | 21 | Avanade | Brazil |
+| 🥈 #2 | [Andre Dias](https://www.credly.com/users/andredias/badges) | 20 | Avanade | Brazil |
 | 🥉 #3 | [Renan Evangelista Pereira](https://www.credly.com/users/renan-evangelista-pereira/badges) | 19 | Avanade | Brazil |
 | #4 | [Diego Giglioli](https://www.credly.com/users/diego-giglioli.bb64eaa5/badges) | 18 | Avanade | Brazil |
 |  | [Joao Pedro Alexandre Vieira](https://www.credly.com/users/joao-pedro-alexandre-vieira/badges) | 18 | Avanade | Brazil |
@@ -24,9 +24,9 @@
 ## 📊 Statistics
 
 - **Total Certified Users**: 1,525
-- **Total Badges Earned**: 2,070
+- **Total Badges Earned**: 2,081
 - **Average Badges per User**: 1.36
-- **Highest Badge Count**: 20
+- **Highest Badge Count**: 21
 
 ---
 
