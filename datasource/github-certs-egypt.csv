@@ -1,6 +1,6 @@
 first_name,middle_name,last_name,badge_count,profile_url
-Mohamed,,Aabdelmenam,1,/users/mohamed-aabdelmenam/badges
-Ahmed,,Abd El Naser Mohamed Badawy,1,/users/ahmed-abd-el-naser-mohamed-badawy/badges
+Mohamed,,Aabdelmenam,0,/users/mohamed-aabdelmenam/badges
+Ahmed,,Abd El Naser Mohamed Badawy,0,/users/ahmed-abd-el-naser-mohamed-badawy/badges
 Ahmed,Mohamed,Abd Elhamid,1,/users/ahmed-abd-elhamid.13c05a10/badges
 Abdel-Hamed,,Abdel-Nasser,1,/users/abdel-hamed-abdel-nasser/badges
 Khalid,Mohamed,Abdelaty,1,/users/khalid-abdelaty/badges
@@ -78,7 +78,7 @@ Aly,,Esmaeil,1,/users/aly-esmaeil/badges
 Hamed,,Farag,1,/users/hamed-farag.a2d6f17a/badges
 Kamel,,Fares,1,/users/kamel-fares.c578fe94/badges
 Mohamed,,Fathallah,1,/users/mohamed-fathallah.9c7f0166/badges
-Omar,,Fathy,2,/users/omarmfathy219/badges
+Omar,,Fathy,0,/users/omarmfathy219/badges
 Youssef,Essam,Fathy,1,/users/youssef-fathy.391a93dd/badges
 Mohab,,Gabber,1,/users/mohab-gabber/badges
 Hossam,,Gaber,1,/users/hossam-gaber/badges
