@@ -1,6 +1,6 @@
 # 🌍 TOP 10 GitHub Certifications - Global
 
-> Last updated: July 22, 2026 at 02:30 UTC
+> Last updated: July 23, 2026 at 02:35 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -11,20 +11,20 @@
 | 🥉 #3 | [Joost Voskuil](https://www.credly.com/users/joost-voskuil/badges) | 21 | Delta-N | Netherlands |
 |  | [Peter Szekeli](https://www.credly.com/users/peter-szekeli/badges) | 21 | Xebia | Netherlands |
 | #5 | [Andre Dias](https://www.credly.com/users/andredias/badges) | 20 | Avanade | Brazil |
-|  | [Jesse Houwing](https://www.credly.com/users/jessehouwing/badges) | 20 | Xebia | Netherlands |
 |  | [Renan Evangelista Pereira](https://www.credly.com/users/renan-evangelista-pereira/badges) | 20 | Avanade | Brazil |
 |  | [Vincent Marchal](https://www.credly.com/users/vincent-marchal.87a05753/badges) | 20 | Avanade | France |
-| #9 | [Akshay Algeri](https://www.credly.com/users/akshay-algeri/badges) | 19 | Canarys Automations Limited | India |
+| #8 | [Akshay Algeri](https://www.credly.com/users/akshay-algeri/badges) | 19 | Canarys Automations Limited | India |
 |  | [Barnes Chism](https://www.credly.com/users/barnes-chism/badges) | 19 | Xebia | United States |
+|  | [David Daniels](https://www.credly.com/users/daviddaniels/badges) | 19 |  | United States |
 |  | [Sujith Quintelier](https://www.credly.com/users/sujith/badges) | 19 | Microsoft | Belgium |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 24,946
-- **Total Badges Earned**: 32,060
-- **Average Badges per User**: 1.29
+- **Total Certified Users**: 24,926
+- **Total Badges Earned**: 31,948
+- **Average Badges per User**: 1.28
 - **Highest Badge Count**: 23
 
 ---

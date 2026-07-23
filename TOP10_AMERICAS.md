@@ -1,6 +1,6 @@
 # 🌎 TOP 10 GitHub Certifications - Americas
 
-> Last updated: July 22, 2026 at 02:30 UTC
+> Last updated: July 23, 2026 at 02:34 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -10,8 +10,8 @@
 | 🥈 #2 | [Andre Dias](https://www.credly.com/users/andredias/badges) | 20 | Avanade | Brazil |
 |  | [Renan Evangelista Pereira](https://www.credly.com/users/renan-evangelista-pereira/badges) | 20 | Avanade | Brazil |
 | #4 | [Barnes Chism](https://www.credly.com/users/barnes-chism/badges) | 19 | Xebia | United States |
-| #5 | [David Daniels](https://www.credly.com/users/daviddaniels/badges) | 18 |  | United States |
-|  | [Diego Giglioli](https://www.credly.com/users/diego-giglioli.bb64eaa5/badges) | 18 | Avanade | Brazil |
+|  | [David Daniels](https://www.credly.com/users/daviddaniels/badges) | 19 |  | United States |
+| #6 | [Diego Giglioli](https://www.credly.com/users/diego-giglioli.bb64eaa5/badges) | 18 | Avanade | Brazil |
 |  | [Joao Pedro Alexandre Vieira](https://www.credly.com/users/joao-pedro-alexandre-vieira/badges) | 18 | Avanade | Brazil |
 | #8 | [Evan Allen](https://www.credly.com/users/evan_allen/badges) | 17 | Xebia | United States |
 |  | [Kaan Turgut](https://www.credly.com/users/hkaanturgut/badges) | 17 | Lenovo | Canada |
@@ -22,7 +22,7 @@
 ## 📊 Statistics
 
 - **Total Certified Users**: 6,871
-- **Total Badges Earned**: 9,224
+- **Total Badges Earned**: 9,212
 - **Average Badges per User**: 1.34
 - **Highest Badge Count**: 22
 
