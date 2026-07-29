@@ -1,16 +1,16 @@
 # 🌎 TOP 10 GitHub Certifications - Americas
 
-> Last updated: July 28, 2026 at 02:18 UTC
+> Last updated: July 29, 2026 at 02:29 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
 | 🥇 #1 | [Felipe Augusto](https://www.credly.com/users/felipementel/badges) | 22 | Avanade | Brazil |
-| 🥈 #2 | [Andre Dias](https://www.credly.com/users/andredias/badges) | 20 | Avanade | Brazil |
+| 🥈 #2 | [Andre Dias](https://www.credly.com/users/andredias/badges) | 20 |  | Brazil |
+|  | [Barnes Chism](https://www.credly.com/users/barnes-chism/badges) | 20 | Xebia | United States |
 |  | [Renan Evangelista Pereira](https://www.credly.com/users/renan-evangelista-pereira/badges) | 20 | Avanade | Brazil |
-| #4 | [Barnes Chism](https://www.credly.com/users/barnes-chism/badges) | 19 | Xebia | United States |
-|  | [David Daniels](https://www.credly.com/users/daviddaniels/badges) | 19 |  | United States |
+| #5 | [David Daniels](https://www.credly.com/users/daviddaniels/badges) | 19 |  | United States |
 |  | [Gabriel Tramontin](https://www.credly.com/users/gabrieltramontin/badges) | 19 | TD SYNNEX | Brazil |
 | #7 | [Diego Giglioli](https://www.credly.com/users/diego-giglioli.bb64eaa5/badges) | 18 | Avanade | Brazil |
 |  | [Joao Pedro Alexandre Vieira](https://www.credly.com/users/joao-pedro-alexandre-vieira/badges) | 18 | Avanade | Brazil |
@@ -24,8 +24,8 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 6,876
-- **Total Badges Earned**: 9,277
+- **Total Certified Users**: 6,872
+- **Total Badges Earned**: 9,267
 - **Average Badges per User**: 1.35
 - **Highest Badge Count**: 22
 
