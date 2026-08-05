@@ -1,11 +1,11 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Mousa,,Al Bateh,1,/users/mousa-al-bateh.88d2f3ce/badges
-Daniel,,Borik,1,/users/daniel-borik/badges
+Daniel,,Borik,0,/users/daniel-borik/badges
 Thibault,,Cercleux,3,/users/thibault-cercleux/badges
 Lukáš,,Cimpl,3,/users/lukas-cimpl/badges
 Matěj,,Crha,1,/users/matej-crha/badges
 Martin,,David,1,/users/martin-david.9864a517/badges
-Ihor,,Derevtsov,1,/users/ihor-derevtsov/badges
+Ihor,,Derevtsov,0,/users/ihor-derevtsov/badges
 Lukáš,,Duka,1,/users/lukas-duka/badges
 Filip,,Farkas,2,/users/filip-farkas/badges
 Igor,,Gavrilov,1,/users/igor-gavrilov/badges
@@ -35,7 +35,7 @@ Artem,,Sukhorukov,2,/users/artem-sukhorukov/badges
 Petr,,Vocelka,3,/users/petr-vocelka.76f50caf/badges
 Jan,,Voděra,1,/users/jan-vodera/badges
 Julian,,Waibel,1,/users/julian-waibel/badges
-Rouven,,Wessling,2,/users/rouven-wessling/badges
+Rouven,,Wessling,0,/users/rouven-wessling/badges
 Martin,,Zikmund,1,/users/martin-zikmund/badges
 Roman,,Zubryckyj,1,/users/raman-zubrytski/badges
 Radek,,Zíma,7,/users/radek-zima.ca1cf160/badges
