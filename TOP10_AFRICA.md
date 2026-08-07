@@ -1,6 +1,6 @@
 # 🌍 TOP 10 GitHub Certifications - Africa
 
-> Last updated: August 06, 2026 at 02:26 UTC
+> Last updated: August 07, 2026 at 02:36 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -12,8 +12,9 @@
 |  | [Taofeeq Adeoye Bello](https://www.credly.com/users/taofeeq-bello.110ee8a5/badges) | 6 |  | Nigeria |
 | #5 | [Hezekiah Ogundele](https://www.credly.com/users/hezekiah-ogundele/badges) | 5 |  | Nigeria |
 |  | [Jude Igwe](https://www.credly.com/users/jude-igwe.d9545592/badges) | 5 |  | Nigeria |
+|  | [Obaro Olori](https://www.credly.com/users/obaro-olori.97a0b7b9/badges) | 5 |  | Nigeria |
 |  | [Olatunji Samson](https://www.credly.com/users/olatunji-pelz-samson/badges) | 5 |  | Nigeria |
-| #8 | [Ali Heikal](https://www.credly.com/users/aliheikal/badges) | 4 |  | Egypt |
+| #9 | [Ali Heikal](https://www.credly.com/users/aliheikal/badges) | 4 |  | Egypt |
 |  | [Allan Ong'ang'a](https://www.credly.com/users/allan-ong-ang-a.1b106f71/badges) | 4 |  | Kenya |
 |  | [Carike Blignaut-Staden](https://www.credly.com/users/carike/badges) | 4 |  | South Africa |
 |  | [Fred Nyakagwa](https://www.credly.com/users/fred-nyakagwa/badges) | 4 |  | Kenya |
@@ -25,9 +26,9 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 1,156
-- **Total Badges Earned**: 1,344
-- **Average Badges per User**: 1.16
+- **Total Certified Users**: 1,160
+- **Total Badges Earned**: 1,352
+- **Average Badges per User**: 1.17
 - **Highest Badge Count**: 13
 
 ---
