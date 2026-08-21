@@ -1,6 +1,6 @@
 # 🌊 TOP 10 GitHub Certifications - Oceania
 
-> Last updated: August 20, 2026 at 01:09 UTC
+> Last updated: August 21, 2026 at 01:11 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -16,6 +16,7 @@
 |  | [Jiayi Qin](https://www.credly.com/users/jiayi-qin.b8b33e2c/badges) | 4 |  | Australia |
 |  | [Jolan Hu](https://www.credly.com/users/jolan-hu/badges) | 4 |  | Australia |
 |  | [Khurram Shahzad](https://www.credly.com/users/khurram-shahzad.7a11d163/badges) | 4 |  | Australia |
+|  | [Madhav Lakshminarayanan](https://www.credly.com/users/madhav-lakshminarayanan/badges) | 4 | Microsoft | Australia |
 |  | [Matt Duguid](https://www.credly.com/users/mattduguid/badges) | 4 | Self | New Zealand |
 |  | [Ronald Pai](https://www.credly.com/users/ronald-pai.e3e25b98/badges) | 4 |  | Australia |
 |  | [Sayali Chavan](https://www.credly.com/users/sayali-chavan.46e2379d/badges) | 4 |  | Australia |
@@ -27,8 +28,8 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 588
-- **Total Badges Earned**: 797
+- **Total Certified Users**: 589
+- **Total Badges Earned**: 801
 - **Average Badges per User**: 1.36
 - **Highest Badge Count**: 13
 
