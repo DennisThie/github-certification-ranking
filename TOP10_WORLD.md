@@ -1,6 +1,6 @@
 # 🌍 TOP 10 GitHub Certifications - Global
 
-> Last updated: September 01, 2026 at 03:35 UTC
+> Last updated: September 02, 2026 at 02:53 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -8,11 +8,11 @@
 |------|------|--------|---------|---------|
 | 🥇 #1 | [Olivier Delmotte](https://www.credly.com/users/o.delmotte/badges) | 23 | Avanade | France |
 | 🥈 #2 | [Felipe Augusto](https://www.credly.com/users/felipementel/badges) | 22 | Avanade | Brazil |
-| 🥉 #3 | [Andre Dias](https://www.credly.com/users/andredias/badges) | 21 | Avanade | Brazil |
-|  | [Jesse Houwing](https://www.credly.com/users/jessehouwing/badges) | 21 | Xebia | Netherlands |
+| 🥉 #3 | [Jesse Houwing](https://www.credly.com/users/jessehouwing/badges) | 21 | Xebia | Netherlands |
 |  | [Joost Voskuil](https://www.credly.com/users/joost-voskuil/badges) | 21 | Delta-N | Netherlands |
 |  | [Peter Szekeli](https://www.credly.com/users/peter-szekeli/badges) | 21 | Xebia | Netherlands |
 |  | [Rob Bos](https://www.credly.com/users/rob-bos/badges) | 21 | Xebia | Netherlands |
+|  | [Sujith Quintelier](https://www.credly.com/users/sujith/badges) | 21 | Microsoft | Belgium |
 | #8 | [Akshay Algeri](https://www.credly.com/users/akshay-algeri/badges) | 20 | Canarys Automations Limited | India |
 |  | [Barnes Chism](https://www.credly.com/users/barnes-chism/badges) | 20 | Xebia | United States |
 |  | [Joas de Groot](https://www.credly.com/users/joas707/badges) | 20 | Delta-N | Netherlands |
@@ -23,9 +23,9 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 24,989
-- **Total Badges Earned**: 32,314
-- **Average Badges per User**: 1.29
+- **Total Certified Users**: 25,040
+- **Total Badges Earned**: 32,500
+- **Average Badges per User**: 1.30
 - **Highest Badge Count**: 23
 
 ---
