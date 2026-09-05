@@ -1,6 +1,6 @@
 # 🌍 TOP 10 GitHub Certifications - Africa
 
-> Last updated: September 04, 2026 at 02:55 UTC
+> Last updated: September 05, 2026 at 02:57 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -26,8 +26,8 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 1,162
-- **Total Badges Earned**: 1,356
+- **Total Certified Users**: 1,160
+- **Total Badges Earned**: 1,353
 - **Average Badges per User**: 1.17
 - **Highest Badge Count**: 13
 
