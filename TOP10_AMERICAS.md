@@ -1,6 +1,6 @@
 # 🌎 TOP 10 GitHub Certifications - Americas
 
-> Last updated: September 08, 2026 at 03:03 UTC
+> Last updated: September 09, 2026 at 03:04 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -10,20 +10,22 @@
 | 🥈 #2 | [Andre Dias](https://www.credly.com/users/andredias/badges) | 21 | Avanade | Brazil |
 | 🥉 #3 | [Barnes Chism](https://www.credly.com/users/barnes-chism/badges) | 20 | Xebia | United States |
 |  | [Renan Evangelista Pereira](https://www.credly.com/users/renan-evangelista-pereira/badges) | 20 | Avanade | Brazil |
-| #5 | [David Daniels](https://www.credly.com/users/daviddaniels/badges) | 19 | Xebia | United States |
-|  | [Gabriel Tramontin](https://www.credly.com/users/gabrieltramontin/badges) | 19 | TD SYNNEX | Brazil |
-| #7 | [Clayton Rodrigues Souza](https://www.credly.com/users/clayton-souza/badges) | 18 | Avanade | Brazil |
-|  | [Diego Giglioli](https://www.credly.com/users/diego-giglioli.bb64eaa5/badges) | 18 | Avanade | Brazil |
+| #5 | [Gabriel Tramontin](https://www.credly.com/users/gabrieltramontin/badges) | 19 | TD SYNNEX | Brazil |
+| #6 | [Clayton Rodrigues Souza](https://www.credly.com/users/clayton-souza/badges) | 18 | Avanade | Brazil |
+|  | [David Daniels](https://www.credly.com/users/daviddaniels/badges) | 18 | Xebia | United States |
 |  | [Joao Pedro Alexandre Vieira](https://www.credly.com/users/joao-pedro-alexandre-vieira/badges) | 18 | Avanade | Brazil |
 |  | [Matheus Barros](https://www.credly.com/users/matheus-barros.1892a132/badges) | 18 | Avanade | Brazil |
+| #10 | [Andre Nunes](https://www.credly.com/users/andre-nunes.0d03ef9b/badges) | 17 | Avanade | Brazil |
+|  | [Evan Allen](https://www.credly.com/users/evan_allen/badges) | 17 | Xebia | United States |
+|  | [Kaan Turgut](https://www.credly.com/users/hkaanturgut/badges) | 17 | Lenovo | Canada |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 6,884
-- **Total Badges Earned**: 9,341
-- **Average Badges per User**: 1.36
+- **Total Certified Users**: 6,880
+- **Total Badges Earned**: 9,295
+- **Average Badges per User**: 1.35
 - **Highest Badge Count**: 22
 
 ---
