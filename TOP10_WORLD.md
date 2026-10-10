@@ -1,6 +1,6 @@
 # 🌍 TOP 10 GitHub Certifications - Global
 
-> Last updated: October 09, 2026 at 04:34 UTC
+> Last updated: October 10, 2026 at 04:19 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -12,12 +12,12 @@
 |  | [Jesse Houwing](https://www.credly.com/users/jessehouwing/badges) | 21 | Xebia | Netherlands |
 |  | [Joost Voskuil](https://www.credly.com/users/joost-voskuil/badges) | 21 | Delta-N | Netherlands |
 |  | [Peter Szekeli](https://www.credly.com/users/peter-szekeli/badges) | 21 | Xebia | Netherlands |
-|  | [Rob Bos](https://www.credly.com/users/rob-bos/badges) | 21 | Xebia | Netherlands |
-| #8 | [Akshay Algeri](https://www.credly.com/users/akshay-algeri/badges) | 20 | Canarys Automations Limited | India |
+| #7 | [Akshay Algeri](https://www.credly.com/users/akshay-algeri/badges) | 20 | Canarys Automations Limited | India |
 |  | [Barnes Chism](https://www.credly.com/users/barnes-chism/badges) | 20 | Xebia | United States |
 |  | [Diego Giglioli](https://www.credly.com/users/diegolisboajj/badges) | 20 | Avanade | Brazil |
 |  | [Joas de Groot](https://www.credly.com/users/joas707/badges) | 20 | Delta-N | Netherlands |
 |  | [Renan Evangelista Pereira](https://www.credly.com/users/renan-evangelista-pereira/badges) | 20 | Avanade | Brazil |
+|  | [Rob Bos](https://www.credly.com/users/rob-bos/badges) | 20 | Xebia | Netherlands |
 |  | [Sujith Quintelier](https://www.credly.com/users/sujith/badges) | 20 | Microsoft | Belgium |
 |  | [Vincent Marchal](https://www.credly.com/users/vincent-marchal.87a05753/badges) | 20 | Avanade | France |
 
@@ -25,8 +25,8 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 24,334
-- **Total Badges Earned**: 31,613
+- **Total Certified Users**: 25,058
+- **Total Badges Earned**: 32,621
 - **Average Badges per User**: 1.30
 - **Highest Badge Count**: 23
 
