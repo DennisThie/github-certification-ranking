@@ -1,6 +1,6 @@
 # 🇪🇺 TOP 10 GitHub Certifications - Europe
 
-> Last updated: October 24, 2026 at 03:16 UTC
+> Last updated: October 25, 2026 at 03:11 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -18,13 +18,14 @@
 |  | [Nico Orschel](https://www.credly.com/users/nico-orschel/badges) | 18 | Xebia | Germany |
 |  | [Patrycja Kozak](https://www.credly.com/users/patrycja-kozak.2a2cf477/badges) | 18 | SoftwareOne | Poland |
 |  | [Rimon Oz](https://www.credly.com/users/rimon-oz/badges) | 18 |  | Netherlands |
+|  | [Till Spindler](https://www.credly.com/users/till-spindler/badges) | 18 | Eficode | Germany |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 4,210
-- **Total Badges Earned**: 6,357
+- **Total Certified Users**: 4,212
+- **Total Badges Earned**: 6,364
 - **Average Badges per User**: 1.51
 - **Highest Badge Count**: 23
 
