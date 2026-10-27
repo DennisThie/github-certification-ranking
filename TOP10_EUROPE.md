@@ -1,6 +1,6 @@
 # 🇪🇺 TOP 10 GitHub Certifications - Europe
 
-> Last updated: October 26, 2026 at 03:11 UTC
+> Last updated: October 27, 2026 at 03:42 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -12,20 +12,17 @@
 | #4 | [Jesse Houwing](https://www.credly.com/users/jessehouwing/badges) | 20 | Xebia | Netherlands |
 |  | [Joas de Groot](https://www.credly.com/users/joas707/badges) | 20 | Delta-N | Netherlands |
 |  | [Rob Bos](https://www.credly.com/users/rob-bos/badges) | 20 | Xebia | Netherlands |
+|  | [Till Spindler](https://www.credly.com/users/till-spindler/badges) | 20 | Eficode | Germany |
 |  | [Vincent Marchal](https://www.credly.com/users/vincent-marchal.87a05753/badges) | 20 | Avanade | France |
-| #8 | [Sujith Quintelier](https://www.credly.com/users/sujith/badges) | 19 | Microsoft | Belgium |
-| #9 | [Hidde de Smet](https://www.credly.com/users/hidde-de-smet/badges) | 18 | Xebia | Netherlands |
-|  | [Nico Orschel](https://www.credly.com/users/nico-orschel/badges) | 18 | Xebia | Germany |
-|  | [Patrycja Kozak](https://www.credly.com/users/patrycja-kozak.2a2cf477/badges) | 18 | SoftwareOne | Poland |
-|  | [Rimon Oz](https://www.credly.com/users/rimon-oz/badges) | 18 |  | Netherlands |
-|  | [Till Spindler](https://www.credly.com/users/till-spindler/badges) | 18 | Eficode | Germany |
+| #9 | [Madis Kõosaar](https://www.credly.com/users/madis-koosaar/badges) | 19 | Eficode | Estonia |
+|  | [Sujith Quintelier](https://www.credly.com/users/sujith/badges) | 19 | Microsoft | Belgium |
 
 ---
 
 ## 📊 Statistics
 
 - **Total Certified Users**: 4,212
-- **Total Badges Earned**: 6,362
+- **Total Badges Earned**: 6,366
 - **Average Badges per User**: 1.51
 - **Highest Badge Count**: 23
 
