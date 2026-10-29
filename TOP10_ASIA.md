@@ -1,6 +1,6 @@
 # 🌏 TOP 10 GitHub Certifications - Asia
 
-> Last updated: October 28, 2026 at 03:58 UTC
+> Last updated: October 29, 2026 at 04:22 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -15,14 +15,14 @@
 |  | [Vinay C](https://www.credly.com/users/vinay-c.f7b7d8ef/badges) | 18 | Canarys Automations Limited | India |
 | #8 | [Dasari Ramesh Kumar](https://www.credly.com/users/ramesh.dasari/badges) | 17 | Xebia | India |
 |  | [Niranjana K](https://www.credly.com/users/niranjana-koni/badges) | 17 | Canarys Automations Limited | India |
-|  | [Stephie Mercy](https://www.credly.com/users/stephie-mercy/badges) | 17 | Ivalue Infosolutions Limited | India |
+| #10 | [Stephie Mercy](https://www.credly.com/users/stephie-mercy/badges) | 16 | Ivalue Infosolutions Limited | India |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 12,196
-- **Total Badges Earned**: 14,704
+- **Total Certified Users**: 12,195
+- **Total Badges Earned**: 14,699
 - **Average Badges per User**: 1.21
 - **Highest Badge Count**: 20
 
