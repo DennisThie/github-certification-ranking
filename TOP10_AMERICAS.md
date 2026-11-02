@@ -1,6 +1,6 @@
 # 🌎 TOP 10 GitHub Certifications - Americas
 
-> Last updated: November 01, 2026 at 04:21 UTC
+> Last updated: November 02, 2026 at 04:23 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -8,9 +8,9 @@
 |------|------|--------|---------|---------|
 | 🥇 #1 | [Felipe Augusto](https://www.credly.com/users/felipementel/badges) | 22 | Avanade | Brazil |
 | 🥈 #2 | [Andre Dias](https://www.credly.com/users/andredias/badges) | 21 | Avanade | Brazil |
-| 🥉 #3 | [Barnes Chism](https://www.credly.com/users/barnes-chism/badges) | 20 | Xebia | United States |
+|  | [Gabriel Tramontin](https://www.credly.com/users/gabrieltramontin/badges) | 21 | TD SYNNEX | Brazil |
+| #4 | [Barnes Chism](https://www.credly.com/users/barnes-chism/badges) | 20 | Xebia | United States |
 |  | [Diego Giglioli](https://www.credly.com/users/diegolisboajj/badges) | 20 | Avanade | Brazil |
-|  | [Gabriel Tramontin](https://www.credly.com/users/gabrieltramontin/badges) | 20 | TD SYNNEX | Brazil |
 |  | [Renan Evangelista Pereira](https://www.credly.com/users/renan-evangelista-pereira/badges) | 20 | Avanade | Brazil |
 | #7 | [Clayton Rodrigues Souza](https://www.credly.com/users/clayton-souza/badges) | 18 | Avanade | Brazil |
 |  | [David Daniels](https://www.credly.com/users/daviddaniels/badges) | 18 | Xebia | United States |
@@ -21,8 +21,8 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 6,909
-- **Total Badges Earned**: 9,446
+- **Total Certified Users**: 6,908
+- **Total Badges Earned**: 9,445
 - **Average Badges per User**: 1.37
 - **Highest Badge Count**: 22
 

@@ -1,6 +1,6 @@
 # 🌍 TOP 10 GitHub Certifications - Global
 
-> Last updated: November 01, 2026 at 04:21 UTC
+> Last updated: November 02, 2026 at 04:23 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -9,12 +9,12 @@
 | 🥇 #1 | [Olivier Delmotte](https://www.credly.com/users/o.delmotte/badges) | 23 | Avanade | France |
 | 🥈 #2 | [Felipe Augusto](https://www.credly.com/users/felipementel/badges) | 22 | Avanade | Brazil |
 | 🥉 #3 | [Andre Dias](https://www.credly.com/users/andredias/badges) | 21 | Avanade | Brazil |
+|  | [Gabriel Tramontin](https://www.credly.com/users/gabrieltramontin/badges) | 21 | TD SYNNEX | Brazil |
 |  | [Joost Voskuil](https://www.credly.com/users/joost-voskuil/badges) | 21 | Delta-N | Netherlands |
 |  | [Peter Szekeli](https://www.credly.com/users/peter-szekeli/badges) | 21 | Xebia | Netherlands |
-| #6 | [Akshay Algeri](https://www.credly.com/users/akshay-algeri/badges) | 20 | Canarys Automations Limited | India |
+| #7 | [Akshay Algeri](https://www.credly.com/users/akshay-algeri/badges) | 20 | Canarys Automations Limited | India |
 |  | [Barnes Chism](https://www.credly.com/users/barnes-chism/badges) | 20 | Xebia | United States |
 |  | [Diego Giglioli](https://www.credly.com/users/diegolisboajj/badges) | 20 | Avanade | Brazil |
-|  | [Gabriel Tramontin](https://www.credly.com/users/gabrieltramontin/badges) | 20 | TD SYNNEX | Brazil |
 |  | [Jesse Houwing](https://www.credly.com/users/jessehouwing/badges) | 20 | Xebia | Netherlands |
 |  | [Joas de Groot](https://www.credly.com/users/joas707/badges) | 20 | Delta-N | Netherlands |
 |  | [Nico Orschel](https://www.credly.com/users/nico-orschel/badges) | 20 | Xebia | Germany |
@@ -27,7 +27,7 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 25,075
+- **Total Certified Users**: 25,073
 - **Total Badges Earned**: 32,686
 - **Average Badges per User**: 1.30
 - **Highest Badge Count**: 23
