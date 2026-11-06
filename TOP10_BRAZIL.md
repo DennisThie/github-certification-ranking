@@ -1,6 +1,6 @@
 # 🇧🇷 TOP 10 GitHub Certifications - Brazil
 
-> Last updated: November 05, 2026 at 05:05 UTC
+> Last updated: November 06, 2026 at 05:05 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
