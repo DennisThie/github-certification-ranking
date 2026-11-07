@@ -1,6 +1,6 @@
 # 🌊 TOP 10 GitHub Certifications - Oceania
 
-> Last updated: November 06, 2026 at 05:05 UTC
+> Last updated: November 07, 2026 at 04:39 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -8,12 +8,12 @@
 |------|------|--------|---------|---------|
 | 🥇 #1 | [Marco Celon](https://www.credly.com/users/marco-celon.53bc8019/badges) | 14 | GitHub | Australia |
 | 🥈 #2 | [Ben Hollamby](https://www.credly.com/users/ben-hollamby/badges) | 5 |  | New Zealand |
+|  | [Ben Leane](https://www.credly.com/users/ben-leane/badges) | 5 |  | Australia |
 |  | [Hao Chen](https://www.credly.com/users/hao-chen.c4b252a3/badges) | 5 |  | New Zealand |
 |  | [Jerome Brown](https://www.credly.com/users/owretch/badges) | 5 | Mantel Group | New Zealand |
 |  | [Maxim Mazurok](https://www.credly.com/users/maxim-mazurok/badges) | 5 | WiseTech Global | Australia |
 |  | [Sebastian Peter](https://www.credly.com/users/sebastian-peter/badges) | 5 | Tata Consultancy Services | Australia |
-| #7 | [Ben Leane](https://www.credly.com/users/ben-leane/badges) | 4 |  | Australia |
-|  | [Felix Gozali](https://www.credly.com/users/felix-gozali.891b4473/badges) | 4 |  | Australia |
+| #8 | [Felix Gozali](https://www.credly.com/users/felix-gozali.891b4473/badges) | 4 |  | Australia |
 |  | [Jesse Loudon](https://www.credly.com/users/jesseloudon/badges) | 4 |  | Australia |
 |  | [Jiayi Qin](https://www.credly.com/users/jiayi-qin.b8b33e2c/badges) | 4 |  | Australia |
 |  | [Jolan Hu](https://www.credly.com/users/jolan-hu/badges) | 4 |  | Australia |
@@ -31,8 +31,8 @@
 ## 📊 Statistics
 
 - **Total Certified Users**: 597
-- **Total Badges Earned**: 820
-- **Average Badges per User**: 1.37
+- **Total Badges Earned**: 821
+- **Average Badges per User**: 1.38
 - **Highest Badge Count**: 14
 
 ---
