@@ -1,6 +1,6 @@
 # 🇪🇺 TOP 10 GitHub Certifications - Europe
 
-> Last updated: November 09, 2026 at 04:39 UTC
+> Last updated: November 10, 2026 at 05:57 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -9,9 +9,9 @@
 | 🥇 #1 | [Olivier Delmotte](https://www.credly.com/users/o.delmotte/badges) | 24 | Avanade | France |
 | 🥈 #2 | [Jesse Houwing](https://www.credly.com/users/jessehouwing/badges) | 22 | Xebia | Netherlands |
 |  | [Joost Voskuil](https://www.credly.com/users/joost-voskuil/badges) | 22 | Delta-N | Netherlands |
+|  | [Madis Kõosaar](https://www.credly.com/users/madis-koosaar/badges) | 22 | Eficode | Estonia |
 |  | [Till Spindler](https://www.credly.com/users/till-spindler/badges) | 22 | Eficode | Germany |
-| #5 | [Madis Kõosaar](https://www.credly.com/users/madis-koosaar/badges) | 21 | Eficode | Estonia |
-|  | [Nico Orschel](https://www.credly.com/users/nico-orschel/badges) | 21 | Xebia | Germany |
+| #6 | [Nico Orschel](https://www.credly.com/users/nico-orschel/badges) | 21 | Xebia | Germany |
 |  | [Peter Szekeli](https://www.credly.com/users/peter-szekeli/badges) | 21 | Xebia | Netherlands |
 |  | [Rob Bos](https://www.credly.com/users/rob-bos/badges) | 21 | Xebia | Netherlands |
 |  | [Vincent Marchal](https://www.credly.com/users/vincent-marchal.87a05753/badges) | 21 | Avanade | France |
@@ -21,9 +21,9 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 4,216
+- **Total Certified Users**: 4,217
 - **Total Badges Earned**: 6,430
-- **Average Badges per User**: 1.53
+- **Average Badges per User**: 1.52
 - **Highest Badge Count**: 24
 
 ---
