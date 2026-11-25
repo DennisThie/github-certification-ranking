@@ -1,6 +1,6 @@
 # 🌍 TOP 10 GitHub Certifications - Global
 
-> Last updated: November 24, 2026 at 08:23 UTC
+> Last updated: November 25, 2026 at 07:01 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -8,25 +8,21 @@
 |------|------|--------|---------|---------|
 | 🥇 #1 | [Olivier Delmotte](https://www.credly.com/users/o.delmotte/badges) | 24 | Avanade | France |
 | 🥈 #2 | [Felipe Augusto](https://www.credly.com/users/felipementel/badges) | 23 | Avanade | Brazil |
-| 🥉 #3 | [Andre Dias](https://www.credly.com/users/andredias/badges) | 22 | Avanade | Brazil |
+|  | [Jesse Houwing](https://www.credly.com/users/jessehouwing/badges) | 23 | Xebia | Netherlands |
+|  | [Madis Kõosaar](https://www.credly.com/users/madis-koosaar/badges) | 23 | Eficode | Estonia |
+|  | [Till Spindler](https://www.credly.com/users/till-spindler/badges) | 23 | Eficode | Germany |
+| #6 | [Andre Dias](https://www.credly.com/users/andredias/badges) | 22 | Avanade | Brazil |
 |  | [Gabriel Tramontin](https://www.credly.com/users/gabrieltramontin/badges) | 22 | TD SYNNEX | Brazil |
-|  | [Jesse Houwing](https://www.credly.com/users/jessehouwing/badges) | 22 | Xebia | Netherlands |
 |  | [Joost Voskuil](https://www.credly.com/users/joost-voskuil/badges) | 22 | Delta-N | Netherlands |
-|  | [Madis Kõosaar](https://www.credly.com/users/madis-koosaar/badges) | 22 | Eficode | Estonia |
-|  | [Till Spindler](https://www.credly.com/users/till-spindler/badges) | 22 | Eficode | Germany |
-| #9 | [Joas de Groot](https://www.credly.com/users/joas707/badges) | 21 | Xebia | Netherlands |
-|  | [Nico Orschel](https://www.credly.com/users/nico-orschel/badges) | 21 | Xebia | Germany |
-|  | [Peter Szekeli](https://www.credly.com/users/peter-szekeli/badges) | 21 | Xebia | Netherlands |
-|  | [Renan Evangelista Pereira](https://www.credly.com/users/renan-evangelista-pereira/badges) | 21 | Avanade | Brazil |
-|  | [Rob Bos](https://www.credly.com/users/rob-bos/badges) | 21 | Xebia | Netherlands |
-|  | [Vincent Marchal](https://www.credly.com/users/vincent-marchal.87a05753/badges) | 21 | Avanade | France |
+|  | [Nico Orschel](https://www.credly.com/users/nico-orschel/badges) | 22 | Xebia | Germany |
+|  | [Rob Bos](https://www.credly.com/users/rob-bos/badges) | 22 | Xebia | Netherlands |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 24,373
-- **Total Badges Earned**: 31,949
+- **Total Certified Users**: 24,921
+- **Total Badges Earned**: 32,764
 - **Average Badges per User**: 1.31
 - **Highest Badge Count**: 24
 
